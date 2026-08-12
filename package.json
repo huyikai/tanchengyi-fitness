@@ -1,0 +1,8 @@
+{
+  "name": "tanchengyi-fitness",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check-scaffold.mjs"
+  }
+}
