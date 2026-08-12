@@ -18,6 +18,7 @@ updated_at: "2026-08-12"
 | 凯圣王-谭成义三分化③——名词释义 | Bilibili | https://www.bilibili.com/video/BV1hCdSBaEvw/ | 解释组间歇、RM、RPE、训练频率等计划术语。 |
 | 三分化-训练节奏详解 | Bilibili | https://www.bilibili.com/video/BV1aQ1VYyE5B/ | 三分化系列中专门讲训练节奏的分集。 |
 | 三分化-计划上 | Bilibili | https://www.bilibili.com/video/BV1hjUVYJE8X/ | B 站 API season 列出的三分化计划分集之一。 |
+| 三分化训练最后一期 | 小红书 | https://www.xiaohongshu.com/explore/69f02f48000000003601e2ff?xsec_token=ABhUMJpycJSAPbw7Nk2Z6aN1EJjYczUZNja9FpWgodB84=&xsec_source=pc_user | 本人三分化系列收官向；可与 B 站/抖音对照。 |
 
 ## T2 部位跟练与私教视角
 
@@ -51,6 +52,7 @@ updated_at: "2026-08-12"
 |------|------|-----|----------|
 | 好的训练就是拉伸，好的拉伸就是训练，希望对大家有所帮助！！ | Bilibili | https://www.bilibili.com/video/BV1EkV96nEyg/ | 谭成义本人账号 owner，直接对应拉伸/恢复主题。 |
 | 全身完整拉伸教学 | 小红书 | https://www.xiaohongshu.com/explore/6a1ce428000000003700dd83?xsec_token=ABPpEEo7oHPdbMY7laDzmE6O5Bi1IwYeQWIDEtKEa8FQM=&xsec_source=pc_user | 本人拉伸教学；文案与 B 站拉伸片表述一致。 |
+| 上肢关节和肌腱不适调整思路 | 小红书 | https://www.xiaohongshu.com/explore/6a05325f000000003701d827?xsec_token=ABq19VuvOhR7EWem0S9bg-S8fj00ykiaOLwGdQnE38dtk=&xsec_source=pc_user | 本人功能性/疼痛管理向；关节肌腱不适。 |
 | 谭成义自用的背部热身动作 | Bilibili | https://www.bilibili.com/video/BV1tcraBTEqg/ | 低优先级账号发布，但标题/简介指向谭成义背部热身。 |
 | 凯圣王-谭成义三分化②——跟练胸肩三头 | Bilibili | https://www.bilibili.com/video/BV1CSoKBaEgK/ | 动态说明视频最后有谭指导热身，适合作热身线索。 |
 | 凯圣王-谭成义三分化④——跟练背三角肌后束二头 | Bilibili | https://www.bilibili.com/video/BV1v5opBhEDc/ | 动态说明含练背当天热身。 |
@@ -76,6 +78,7 @@ updated_at: "2026-08-12"
 | 从16岁出来混社会的打工仔到如今拥有近100万粉丝的自媒体健身博主，谭成义用行动诠释了：努力真的能改变人生！ | 抖音精选 | https://jingxuan.douyin.com/m/video/7610375496966572465 | 第三方公开视频，可辅助确认人物背景与公众叙事。 |
 | 谭成义古典自然卡意味着什么 | 抖音公开索引 | https://www.douyin.com/shipin/7644737030634686499 | 公开索引显示自然古典 PRO 相关讨论。 |
 | 中国古典谭成义拿下职业卡 | 西瓜视频 | https://m.ixigua.com/dx/7643755091141488357 | 第三方赛事背景讨论，低优先级辅助线索。 |
+| 韩国 AGP 拿下自然职业卡 | 小红书 | https://www.xiaohongshu.com/explore/6a13d140000000003601d6a1?xsec_token=ABJtWvj6fFUwNxVSwr47cNjapPx7SwnDYF2fPo_x4o-q0=&xsec_source=pc_user | 本人账号赛事短视频；IFBB 舞台画面。 |
 
 ## 缺口
 
