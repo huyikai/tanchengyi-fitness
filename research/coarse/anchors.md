@@ -39,6 +39,8 @@ updated_at: "2026-08-12"
 | 罗马尼亚硬拉动作 | 小红书 | https://www.xiaohongshu.com/explore/6a7ad28d000000002402f3dd?xsec_token=ABxAYc0cd1E8GJlkGZ42avpZJ7i5rWj5uRv4UwWdMJp20=&xsec_source=pc_user | 本人账号 RDL 教学；跨平台对照抖音/B 站。 |
 | 手臂训练教学（置顶） | 小红书 | https://www.xiaohongshu.com/explore/68cf88a3000000001301c607?xsec_token=ABUqR3Oa6NVCYfcvmZkIOKBDDLb9ML_JTlidoiM_mk2UI=&xsec_source=pc_user | 本人置顶；肱三头/手臂教学纯享版。 |
 | 健身房器械讲解系列（坐姿夹胸/反飞鸟一体机） | 抖音 | https://www.douyin.com/video/7661923214516256369 | 本人器械合集代表作；讲一体机用法与变式。 |
+| 健身房器械讲解系列（坐姿夹胸/反飞鸟一体机） | 小红书 | https://www.xiaohongshu.com/explore/6a55b4a4000000001c026c92?xsec_token=ABOi2R1CKgY0-VOMDxBOaymvxP9CduWkb-SqHL5E7kEXc=&xsec_source=pc_user | 本人器械系列；与抖音同主题对照。 |
+| 高位下拉动作讲解 | 小红书 | https://www.xiaohongshu.com/explore/6a5aeee4000000000100c9c4?xsec_token=ABiHRCEOfSZaILlxntv84gZYu9WSHkfsE0QpSV1KyuaMA=&xsec_source=pc_user | 本人背部器械动作讲解。 |
 | 透视学动作①——卧推详解 | Bilibili | https://www.bilibili.com/video/BV1ZHzMBmEtj/ | 多个三分化视频简介列为往期动作详解。 |
 | 透视学动作②——哑铃推肩详解 | Bilibili | https://www.bilibili.com/video/BV1xtzCBhEYN/ | 与推肩/肩部训练技术相关的动作锚点。 |
 | 透视学动作③——罗马尼亚硬拉详解 | Bilibili | https://www.bilibili.com/video/BV1qF6wBaEWu/ | 腿后侧/髋铰链技术代表锚点。 |
@@ -60,6 +62,7 @@ updated_at: "2026-08-12"
 |------|------|-----|----------|
 | 非常完整的减脂计划视频（置顶） | 抖音 | https://www.douyin.com/video/7618962209967965617 | 本人主页置顶；减脂饮食计划入口，官方向。 |
 | 保姆级减脂计划（置顶） | 小红书 | https://www.xiaohongshu.com/explore/69bcf2ed00000000210129e5?xsec_token=ABz5gCBsBVt0_wSIu3CKTe6SUxx2_cRrRwQRsLLx97Mqw=&xsec_source=pc_user | 本人主页置顶；要点「减脂不是减重」；与抖音减脂计划主题对应（须带 token）。 |
+| 好好吃饭好好睡觉（睡眠质量/减脂） | 小红书 | https://www.xiaohongshu.com/explore/6a69536f000000000101f3df?xsec_token=ABFFT7SIX-U_UU_B0eAf87UgsXZAiwJ0B3Yb86eWKKBrE=&xsec_source=pc_user | 本人长视频；睡眠与减脂交叉。 |
 | 三分化-饮食详解 | Bilibili | https://www.bilibili.com/video/BV1z8zPYjE4j/ | B 站 API 可见，动态概括热量、碳蛋脂、时间轴。 |
 | 三分化-练后怎么吃详解 | Bilibili | https://www.bilibili.com/video/BV1mnCGYFEUw/ | 三分化 season 中的练后进食分集。 |
 | 减脂第十天/碳水在身体内的去向/碳水前置后置的区别/碳水循环计划的简聊/训练前什么时间吃碳水 | Bilibili | https://www.bilibili.com/video/BV18N411f7gp/ | 搜索结果显示与碳水循环、训练前碳水安排相关。 |
@@ -79,7 +82,8 @@ updated_at: "2026-08-12"
 - T3 动作技术中部分 BV 来自视频简介/搜索索引；细扫需逐条打开核验与截图。
 - T5 已有抖音本人置顶减脂计划；B 站侧仍多凯圣王合作，细扫时区分合作 vs 本人。
 - T6 背景类均不应混入训练正文，后续只用于人物识别、官方账号判断和版权风险提示。
-- 小红书本人主页已核验（1014738441）；私教分集（背/胸/肩/臂/腿/腹）已 captured；微信公众号仍无可靠官方锚点（见 `blocked.md`）。
+- 小红书本人主页已核验（1014738441）；私教分集与多条动作/恢复笔记已 captured；微信公众号仍无可靠官方锚点（见 `blocked.md`）。
 - 抖音合集「焚决之跟练系列」等可作 T1/T2 后续细扫入口。
-- 小红书高位下拉/哑铃系列/器械讲解等动作笔记可继续细扫。
+- 小红书三分化/备赛职业卡等笔记可继续细扫。
 - 小红书频繁点选可能触发安全验证，放慢节奏或人工过验后继续。
+- B 站本人空间 HTML 仍 412，可继续用视频页核验。
