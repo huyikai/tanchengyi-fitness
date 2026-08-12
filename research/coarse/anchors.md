@@ -24,6 +24,7 @@ updated_at: "2026-08-12"
 | 标题 | 平台 | URL | 入选原因 |
 |------|------|-----|----------|
 | 私教跟练系列来喽！！（背部） | 抖音 | https://www.douyin.com/video/7647176615788911793 | 本人私教跟练合集入口；背部向长视频。 |
+| 新系列私教系列（背部） | 小红书 | https://www.xiaohongshu.com/explore/6a20eceb0000000037037515?xsec_token=AButGsBC6GhrK80AqNY3MPRoAthp0UMC0Jq6w1USLm9pI=&xsec_source=pc_user | 本人私教视角背部训练入口；可与抖音私教背对照。 |
 | 凯圣王-谭成义三分化②——跟练胸肩三头 | Bilibili | https://www.bilibili.com/video/BV1CSoKBaEgK/ | 动态列出胸肩三头跟练动作和常见错误讲解。 |
 | 凯圣王-谭成义三分化④——跟练背三角肌后束二头 | Bilibili | https://www.bilibili.com/video/BV1v5opBhEDc/ | 覆盖背部、后束、二头的跟练与动作细节。 |
 | 凯圣王-谭成义三分化⑤——跟练腿股四头肌腘绳肌 | Bilibili | https://www.bilibili.com/video/BV17aovBqEdg/ | 腿部跟练分集，动态含腿部热身和动作列表。 |
@@ -34,6 +35,8 @@ updated_at: "2026-08-12"
 | 标题 | 平台 | URL | 入选原因 |
 |------|------|-----|----------|
 | 罗马尼亚硬拉动作介绍 | 抖音 | https://www.douyin.com/video/7671852814386030521 | 本人账号动作教学；可与 B 站透视学 RDL 对照。 |
+| 罗马尼亚硬拉动作 | 小红书 | https://www.xiaohongshu.com/explore/6a7ad28d000000002402f3dd?xsec_token=ABxAYc0cd1E8GJlkGZ42avpZJ7i5rWj5uRv4UwWdMJp20=&xsec_source=pc_user | 本人账号 RDL 教学；跨平台对照抖音/B 站。 |
+| 手臂训练教学（置顶） | 小红书 | https://www.xiaohongshu.com/explore/68cf88a3000000001301c607?xsec_token=ABUqR3Oa6NVCYfcvmZkIOKBDDLb9ML_JTlidoiM_mk2UI=&xsec_source=pc_user | 本人置顶；肱三头/手臂教学纯享版。 |
 | 健身房器械讲解系列（坐姿夹胸/反飞鸟一体机） | 抖音 | https://www.douyin.com/video/7661923214516256369 | 本人器械合集代表作；讲一体机用法与变式。 |
 | 透视学动作①——卧推详解 | Bilibili | https://www.bilibili.com/video/BV1ZHzMBmEtj/ | 多个三分化视频简介列为往期动作详解。 |
 | 透视学动作②——哑铃推肩详解 | Bilibili | https://www.bilibili.com/video/BV1xtzCBhEYN/ | 与推肩/肩部训练技术相关的动作锚点。 |
@@ -44,6 +47,7 @@ updated_at: "2026-08-12"
 | 标题 | 平台 | URL | 入选原因 |
 |------|------|-----|----------|
 | 好的训练就是拉伸，好的拉伸就是训练，希望对大家有所帮助！！ | Bilibili | https://www.bilibili.com/video/BV1EkV96nEyg/ | 谭成义本人账号 owner，直接对应拉伸/恢复主题。 |
+| 全身完整拉伸教学 | 小红书 | https://www.xiaohongshu.com/explore/6a1ce428000000003700dd83?xsec_token=ABPpEEo7oHPdbMY7laDzmE6O5Bi1IwYeQWIDEtKEa8FQM=&xsec_source=pc_user | 本人拉伸教学；文案与 B 站拉伸片表述一致。 |
 | 谭成义自用的背部热身动作 | Bilibili | https://www.bilibili.com/video/BV1tcraBTEqg/ | 低优先级账号发布，但标题/简介指向谭成义背部热身。 |
 | 凯圣王-谭成义三分化②——跟练胸肩三头 | Bilibili | https://www.bilibili.com/video/BV1CSoKBaEgK/ | 动态说明视频最后有谭指导热身，适合作热身线索。 |
 | 凯圣王-谭成义三分化④——跟练背三角肌后束二头 | Bilibili | https://www.bilibili.com/video/BV1v5opBhEDc/ | 动态说明含练背当天热身。 |
@@ -54,7 +58,7 @@ updated_at: "2026-08-12"
 | 标题 | 平台 | URL | 入选原因 |
 |------|------|-----|----------|
 | 非常完整的减脂计划视频（置顶） | 抖音 | https://www.douyin.com/video/7618962209967965617 | 本人主页置顶；减脂饮食计划入口，官方向。 |
-| 保姆级减脂计划（置顶） | 小红书 | https://www.xiaohongshu.com/user/profile/5f9281d100000000010041df | 本人主页置顶笔记；与抖音减脂计划主题对应（单篇直链曾风控，入口挂主页）。 |
+| 保姆级减脂计划（置顶） | 小红书 | https://www.xiaohongshu.com/explore/69bcf2ed00000000210129e5?xsec_token=ABz5gCBsBVt0_wSIu3CKTe6SUxx2_cRrRwQRsLLx97Mqw=&xsec_source=pc_user | 本人主页置顶；要点「减脂不是减重」；与抖音减脂计划主题对应（须带 token）。 |
 | 三分化-饮食详解 | Bilibili | https://www.bilibili.com/video/BV1z8zPYjE4j/ | B 站 API 可见，动态概括热量、碳蛋脂、时间轴。 |
 | 三分化-练后怎么吃详解 | Bilibili | https://www.bilibili.com/video/BV1mnCGYFEUw/ | 三分化 season 中的练后进食分集。 |
 | 减脂第十天/碳水在身体内的去向/碳水前置后置的区别/碳水循环计划的简聊/训练前什么时间吃碳水 | Bilibili | https://www.bilibili.com/video/BV18N411f7gp/ | 搜索结果显示与碳水循环、训练前碳水安排相关。 |
@@ -74,6 +78,6 @@ updated_at: "2026-08-12"
 - T3 动作技术中部分 BV 来自视频简介/搜索索引；细扫需逐条打开核验与截图。
 - T5 已有抖音本人置顶减脂计划；B 站侧仍多凯圣王合作，细扫时区分合作 vs 本人。
 - T6 背景类均不应混入训练正文，后续只用于人物识别、官方账号判断和版权风险提示。
-- 小红书本人主页已核验（1014738441）；微信公众号仍无可靠官方锚点（见 `blocked.md`）。
+- 小红书本人主页已核验（1014738441）；多条单篇已 captured（须主页点入带 token）；微信公众号仍无可靠官方锚点（见 `blocked.md`）。
 - 抖音合集「焚决之跟练系列」等可作 T1/T2 后续细扫入口。
-- 小红书单篇笔记直链可能触发验证码，优先从主页点入。
+- 小红书私教胸/肩/臂/腿/腹分集笔记仍可继续细扫。
