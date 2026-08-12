@@ -33,11 +33,11 @@ updated_at: "2026-08-12"
 
 | 标题 | 平台 | URL | 入选原因 |
 |------|------|-----|----------|
+| 罗马尼亚硬拉动作介绍 | 抖音 | https://www.douyin.com/video/7671852814386030521 | 本人账号动作教学；可与 B 站透视学 RDL 对照。 |
 | 透视学动作①——卧推详解 | Bilibili | https://www.bilibili.com/video/BV1ZHzMBmEtj/ | 多个三分化视频简介列为往期动作详解。 |
 | 透视学动作②——哑铃推肩详解 | Bilibili | https://www.bilibili.com/video/BV1xtzCBhEYN/ | 与推肩/肩部训练技术相关的动作锚点。 |
 | 透视学动作③——罗马尼亚硬拉详解 | Bilibili | https://www.bilibili.com/video/BV1qF6wBaEWu/ | 腿后侧/髋铰链技术代表锚点。 |
 | 透视学动作④——正反高位下拉的区别 | Bilibili | https://www.bilibili.com/video/BV1zyAUztE1n/ | 背部下拉变式与发力区别相关。 |
-| 器械技巧系列4——Newtech高位下拉 | Bilibili | https://www.bilibili.com/video/BV1HVdpBMEET/ | 器械技巧系列中高位下拉锚点。 |
 
 ## T4 热身、拉伸与恢复
 
@@ -53,11 +53,11 @@ updated_at: "2026-08-12"
 
 | 标题 | 平台 | URL | 入选原因 |
 |------|------|-----|----------|
+| 非常完整的减脂计划视频（置顶） | 抖音 | https://www.douyin.com/video/7618962209967965617 | 本人主页置顶；减脂饮食计划入口，官方向。 |
 | 三分化-饮食详解 | Bilibili | https://www.bilibili.com/video/BV1z8zPYjE4j/ | B 站 API 可见，动态概括热量、碳蛋脂、时间轴。 |
 | 三分化-练后怎么吃详解 | Bilibili | https://www.bilibili.com/video/BV1mnCGYFEUw/ | 三分化 season 中的练后进食分集。 |
 | 减脂第十天/碳水在身体内的去向/碳水前置后置的区别/碳水循环计划的简聊/训练前什么时间吃碳水 | Bilibili | https://www.bilibili.com/video/BV18N411f7gp/ | 搜索结果显示与碳水循环、训练前碳水安排相关。 |
 | 减脂挑战第15天变化/饮食思路分享/碳水循环+轻断食/GI值和GL值得应用/碳水后置的理论基础 | Bilibili | https://www.bilibili.com/video/BV1WA411G7J1/ | 搜索结果显示为饮食思路和碳水循环/轻断食锚点。 |
-| 谭成义备赛饮食搭配 | 抖音公开索引 | https://www.douyin.com/shipin/7645874451418105890 | 公开索引可见“备赛饮食/三个月减脂计划”片段；账号归属待核验。 |
 
 ## T6 赛事身份与背景
 
@@ -71,7 +71,7 @@ updated_at: "2026-08-12"
 ## 缺口
 
 - T3 动作技术中部分 BV 来自视频简介/搜索索引；细扫需逐条打开核验与截图。
-- T5 饮食/减脂中本人账号原创内容不足，当前较多来自凯圣王合作/相关索引。
+- T5 已有抖音本人置顶减脂计划；B 站侧仍多凯圣王合作，细扫时区分合作 vs 本人。
 - T6 背景类均不应混入训练正文，后续只用于人物识别、官方账号判断和版权风险提示。
-- 小红书、微信公众号、抖音本人主页仍无可靠官方锚点（见 `blocked.md`）。
-- 抖音公开索引页 `7644746457920194623` 本机已 404，T6 对应行仅作历史线索，细扫勿优先。
+- 小红书、微信公众号仍无可靠官方锚点（见 `blocked.md`）。
+- 抖音合集「焚决之跟练系列」等可作 T1/T2 后续细扫入口。
