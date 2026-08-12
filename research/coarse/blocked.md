@@ -6,7 +6,7 @@ updated_at: "2026-08-12"
 
 | 时间 | 平台/URL | 原因 | 下一步 |
 |------|----------|------|--------|
-| 2026-08-12 | https://space.bilibili.com/521903482/ | other | 本机 Chrome 仍 HTTP 412/出错页；20260812 再试仍 title「出错啦」且截图空白（`assets/20260812-bilibili-space-521903482-retry.png`）。视频页可核验 UP 主。 |
+| 2026-08-12 | https://space.bilibili.com/521903482/ | other | **已恢复可读（登录态）**：标题「谭成义的个人空间」；粉丝约 16.2 万、投稿约 169；截图 `assets/20260812-bilibili-space-521903482-retry2.png`，raw `20260812-bilibili-space-521903482.md`。 |
 | 2026-08-12 | B 站视频页（Browse MCP）如 `BV1qF6wBaEWu` | other | 曾触发 412（`assets/20260812-bilibili-BV-412.png`）。**登录后已恢复**：透视学①–④与三分化①–⑤已 captured。本人空间仍可能 412。 |
 | 2026-08-12 | 小红书无 token 的 explore 直链 | other | 无 `xsec_token` 时仍可能验证/无法浏览（error_code=300031）。**已验证解法**：从本人主页点入，URL 带 `xsec_token`/`xsec_source=pc_user` 后可截详情。 |
 | 2026-08-12 | 微信公众号搜索「谭成义 健身」 | not_found | 仍未找到可核验本人/官方公众号入口。 |
@@ -14,6 +14,8 @@ updated_at: "2026-08-12"
 | 2026-08-12 | 小红书居家下肢+腕腰不适 | captured | 降频直链：`20260812-xhs-home-leg.md`、`wrist.md`、`waist.md`。 |
 | 2026-08-12 | 小红书肩部疼痛+三分化拉日 | captured | 降频直链：`20260812-xhs-shoulder.md`、`split3-pull.md`。 |
 | 2026-08-12 | B 站减脂第10/15天碳水循环锚点 | captured | 凯圣王账号：`20260812-bilibili-fatloss-day10-carb.md`、`day15-carb.md`（low）。 |
+| 2026-08-12 | 小红书主页缺口续扫 `6a3e7af2…` | other | 完整 token 直链后仍 load 超时/黑屏；已单次 reload 仍空页。**停扫 XHS**，冷却 ≥15–30 分钟。未捕获 ID 队列：`6a3e7af2`、`6a3bd8b5`、`6a366ff0`、`6a158e5a`、`6a0d0153`、`6a02d4c4`、`6a008bf4`、`69ec7763`（及主页更早页）。 |
+| 2026-08-12 | B 站本人空间恢复 + 近作技术片 | captured | 空间 raw + 本人 RDL/`BV1hauq6EEfW`、划船反飞鸟/`BV1E8un61EVg`、卧推推肩/`BV1T6GG6mEo9`。 |
 
 ## 小红书细扫降频约定（经验，非绕过）
 
