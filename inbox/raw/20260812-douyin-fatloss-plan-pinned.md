@@ -27,4 +27,4 @@ screenshots:
 
 ## Agent 备注
 
-- 同账号另有置顶背部训练 `https://www.douyin.com/video/7582048702325181745`，可后续单开 raw。
+- 同账号置顶背部训练已单开：`inbox/raw/20260812-douyin-fenjue-back-episode.md`。
