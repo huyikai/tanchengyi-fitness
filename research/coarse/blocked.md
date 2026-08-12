@@ -14,7 +14,7 @@ updated_at: "2026-08-12"
 | 2026-08-12 | 小红书居家下肢+腕腰不适 | captured | 降频直链：`20260812-xhs-home-leg.md`、`wrist.md`、`waist.md`。 |
 | 2026-08-12 | 小红书肩部疼痛+三分化拉日 | captured | 降频直链：`20260812-xhs-shoulder.md`、`split3-pull.md`。 |
 | 2026-08-12 | B 站减脂第10/15天碳水循环锚点 | captured | 凯圣王账号：`20260812-bilibili-fatloss-day10-carb.md`、`day15-carb.md`（low）。 |
-| 2026-08-12 | 小红书主页缺口续扫 `6a3e7af2…` | other | 曾黑屏停扫；冷却后已补 `6a3e7af2`/`6a3bd8b5`/`6a366ff0`。仍待：`6a158e5a`、`6a0d0153`、`6a02d4c4`、`6a008bf4`、`69ec7763`（及更早页）。 |
+| 2026-08-12 | 小红书主页缺口续扫 `6a3e7af2…` | other | 曾黑屏停扫；冷却后已补至 `6a02d4c4`。仍待：`6a008bf4`、`69ec7763`（及更早页）。 |
 | 2026-08-12 | B 站本人空间恢复 + 近作技术片 | captured | 空间 raw + 本人 RDL/`BV1hauq6EEfW`、划船反飞鸟/`BV1E8un61EVg`、卧推推肩/`BV1T6GG6mEo9`。 |
 | 2026-08-12 | B 站本人睡眠/高位下拉/一体机 | captured | `BV1w53J6REfW`、`BV14QKF6FEkP`、`BV1PcNQ6AE3f`。 |
 | 2026-08-12 | B 站本人硬减日/手臂安排/私教腿 | captured | `BV1ysNn65EJ8`、`BV1wvMF6ZEqL`、`BV1RjTT6FEKo`。 |
