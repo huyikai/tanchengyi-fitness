@@ -6,12 +6,18 @@ updated_at: "2026-08-12"
 
 | 时间 | 平台/URL | 原因 | 下一步 |
 |------|----------|------|--------|
-| 2026-08-12 | Cursor Browse / Playwright MCP | other | 本云环境无 Cursor Browse/Playwright MCP；本轮未使用本地 Chrome，也未声称有浏览器截图。维护者若需截图，请在可用 Browse 环境重跑主页/列表页采集。 |
-| 2026-08-12 | https://space.bilibili.com/521903482/ | other | B 站主页搜索可见，但 WebFetch 对 HTML 返回 412；本轮改用 B 站公开 API 验证视频 owner 与标题，未能截图主页。 |
-| 2026-08-12 | https://www.bilibili.com/video/BV1EkV96nEyg/ 等 B 站 HTML 视频页 | other | WebFetch 直接抓 HTML 返回 412；公开 API `api.bilibili.com/x/web-interface/view?bvid=...` 可取得标题/owner/合集信息。细扫需浏览器打开页面并截图。 |
-| 2026-08-12 | https://www.douyin.com/ | login_wall | 抖音公开搜索索引可见若干 `shipin` 页面片段，但无法在本轮确认本人主页、抖音号、合集和完整视频页面。需维护者登录/本地浏览器复核。 |
-| 2026-08-12 | https://www.douyin.com/shipin/7625835031486859291 | login_wall | 搜索索引显示“凯圣王-谭成义三分化”片段与 @谭成义，但无浏览器/登录无法核验完整页面、账号归属与截图。 |
-| 2026-08-12 | https://www.douyin.com/shipin/7644746457920194623 | login_wall | 搜索索引显示 IFBB PRO 背景片段，账号和完整内容待登录环境确认。 |
-| 2026-08-12 | 小红书搜索“谭成义 健身/账号” | login_wall | WebSearch 未给出可核验本人官方主页；小红书常见登录墙，本轮不把任何小红书结果写为官方来源。 |
-| 2026-08-12 | 微信公众号搜索“谭成义 健身” | not_found | 未找到可核验本人/官方公众号入口；仅出现 B 站、抖音公开索引。 |
-| 2026-08-12 | research/coarse/assets/*.png | other | 无 Browse/截图工具可实际捕获页面；本轮按要求跳过 assets，并在本清单记录。 |
+| 2026-08-12 | https://space.bilibili.com/521903482/ | other | 本机 Chrome 仍 HTTP 412，截图为空白页。视频页可核验 UP 主。 |
+| 2026-08-12 | 小红书单篇笔记直链（如 explore/69bcf2ed…） | other | 登录后主页可读；部分笔记直链返回验证/无法浏览（error_code=300031）。细扫单篇时换入口或稍后重试。 |
+| 2026-08-12 | 微信公众号搜索「谭成义 健身」 | not_found | 仍未找到可核验本人/官方公众号入口。 |
+
+## 本轮已补到（可从 blocked 降级）
+
+| 时间 | 项 | 结果 |
+|------|----|------|
+| 2026-08-12 | Cursor Browse MCP（Windows） | **已修复并验证**：`browse.exe` 硬链接、named pipe、导航 `domcontentloaded`。 |
+| 2026-08-12 | 抖音本人主页（登录后） | 抖音号 `nishitiantan`；合集 5 个已截图；置顶减脂计划 URL 已落 raw |
+| 2026-08-12 | 小红书本人主页（登录后） | 小红书号 `1014738441`；主页/搜索截图已存；置顶减脂计划已记 raw |
+| 2026-08-12 | B 站视频 `BV1EkV96nEyg`（拉伸） | 页面可读，截图 `assets/20260812-bilibili-BV1EkV96nEyg.png` |
+| 2026-08-12 | B 站视频 `BV1GzEg6wEVb`（手臂私教） | HTTP 200，UP 主谭成义，截图 `assets/20260812-bilibili-BV1GzEg6wEVb.png` |
+| 2026-08-12 | B 站凯圣王主页 | 可见粉丝/投稿/代表作，截图 `assets/20260812-bilibili-space-2100737396-kaisw.png` |
+| 2026-08-12 | 抖音 `shipin/7625835031486859291` | 可打开但为二创跟练账号「鹦鹉螺」，非官方 |

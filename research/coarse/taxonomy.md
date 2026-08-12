@@ -1,12 +1,14 @@
 ---
 status: draft
-version: ""
+version: taxonomy-v0
 updated_at: "2026-08-12"
 ---
 
 # 主题地图（粗扫 A）
 
-> 临时二级类目，细扫前可改。维护者审阅通过后将 `version` 设为 `taxonomy-v0`。
+已审阅冻结为 taxonomy-v0，细扫入口以此为准（仍可后续修订）。
+
+> 临时二级类目已冻结为 v0；细扫中若发现缺口可再修订并升版本。
 
 ## 类目
 
