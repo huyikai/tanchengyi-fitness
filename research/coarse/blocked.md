@@ -32,6 +32,7 @@ updated_at: "2026-08-12"
 | 2026-08-12 | B 站本人居家背/居家一期/四分化收官 | captured | `BV1oEwZzVEP4`、`BV1MvwxzGEio`、`BV192Nwz4E9n`。 |
 | 2026-08-12 | B 站本人通用计划/下肢/居家腿 | captured | `BV1S8ArzREru`、`BV13nPFzCENK`、`BV1LbcWzyE64`。 |
 | 2026-08-12 | B 站本人腰/肩痛/三分化拉日 | captured | `BV1succzFE4v`、`BV1LYzWBxEvT`、`BV1hnrWBHEu7`。 |
+| 2026-08-12 | B 站本人焚决背/手臂跟练/肩部跟练 | captured | `BV1eVm7BWELV`、`BV14JBHBYEMp`、`BV1aC2ZBwEHC`。 |
 
 ## 小红书细扫降频约定（经验，非绕过）
 
