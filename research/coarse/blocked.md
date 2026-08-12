@@ -23,6 +23,7 @@ updated_at: "2026-08-12"
 | 2026-08-12 | B 站本人饮食胸/上肢关节/泡沫轴 | captured | `BV11QLv6EEqd`、`BV1ND5S6pEgx`、`BV1Xs97BqEsQ`。 |
 | 2026-08-12 | B 站本人三分化讲解/一期/背二头 | captured | `BV15iQeB7Epq`、`BV1adDsBUELf`、`BV1ofdnBZEi3`。 |
 | 2026-08-12 | B 站本人三分化腿/真空腹/赛前最后一练 | captured | `BV1Fzd2BBEdM`、`BV16KLB62ECE`、`BV1FwjJ6aEUT`。 |
+| 2026-08-12 | B 站本人一期入口/最后一周/韩国赛后 | captured | `BV1JjSSBbEsX`、`BV1NwoBBREkA`、`BV1qkVM6XEQe`。 |
 
 ## 小红书细扫降频约定（经验，非绕过）
 
