@@ -13,6 +13,7 @@ updated_at: "2026-08-12"
 | 2026-08-12 | 小红书高频点选 | other | 曾「点击成功但不跳转」。改用降频 + 完整 token 直链后，本轮已补通用计划/四分化收官/下肢（见 `inbox/raw/20260812-xhs-general-plan.md` 等）。 |
 | 2026-08-12 | 小红书居家下肢+腕腰不适 | captured | 降频直链：`20260812-xhs-home-leg.md`、`wrist.md`、`waist.md`。 |
 | 2026-08-12 | 小红书肩部疼痛+三分化拉日 | captured | 降频直链：`20260812-xhs-shoulder.md`、`split3-pull.md`。 |
+| 2026-08-12 | B 站减脂第10/15天碳水循环锚点 | captured | 凯圣王账号：`20260812-bilibili-fatloss-day10-carb.md`、`day15-carb.md`（low）。 |
 
 ## 小红书细扫降频约定（经验，非绕过）
 
