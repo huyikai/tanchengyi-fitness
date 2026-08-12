@@ -19,7 +19,9 @@ updated_at: "2026-08-12"
 | 凯圣王-谭成义三分化①——训练计划 | Bilibili | https://www.bilibili.com/video/BV1FcdZBNEm3/ | 合作系列入口，动态说明覆盖动作选择、周期计划、设计思路。 |
 | 凯圣王-谭成义三分化③——名词释义 | Bilibili | https://www.bilibili.com/video/BV1hCdSBaEvw/ | 解释组间歇、RM、RPE、训练频率等计划术语。 |
 | 三分化-训练节奏详解 | Bilibili | https://www.bilibili.com/video/BV1aQ1VYyE5B/ | 三分化系列中专门讲训练节奏的分集。 |
-| 三分化-计划上 | Bilibili | https://www.bilibili.com/video/BV1hjUVYJE8X/ | B 站 API season 列出的三分化计划分集之一。 |
+| 三分化-计划上 | Bilibili | https://www.bilibili.com/video/BV1hjUVYJE8X/ | B 站三分化计划拆解之上篇。 |
+| 三分化-计划中 | Bilibili | https://www.bilibili.com/video/BV1KZU8Y4EoF/ | 计划拆解中篇；偏背/二头标签。 |
+| 三分化-计划下 | Bilibili | https://www.bilibili.com/video/BV11qU6YSE8L/ | 计划拆解下篇；偏腿/臀腿。 |
 | 三分化训练最后一期 | 小红书 | https://www.xiaohongshu.com/explore/69f02f48000000003601e2ff?xsec_token=ABhUMJpycJSAPbw7Nk2Z6aN1EJjYczUZNja9FpWgodB84=&xsec_source=pc_user | 本人三分化系列收官向；可与 B 站/抖音对照。 |
 | 三分化训练第一期讲解 | 小红书 | https://www.xiaohongshu.com/explore/69d209be0000000022001be9?xsec_token=ABiuvIOHNaToapAB9QCXc3Lj38v2iURjtNMBcWRPWETKM=&xsec_source=pc_user | 本人发布；与凯圣王同框白板讲解周期性三分化。 |
 | 新手增肌三分化跟练系列 | 小红书 | https://www.xiaohongshu.com/explore/6963996a000000002102a3c6?xsec_token=ABfSjmjXfNTfM-lFYxXUGd8SnuloI8-qCF6-STesnrUPg=&xsec_source=pc_user | 本人新手向蹲推拉循环入口。 |
