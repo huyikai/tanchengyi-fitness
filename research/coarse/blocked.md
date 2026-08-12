@@ -20,6 +20,7 @@ updated_at: "2026-08-12"
 | 2026-08-12 | B 站本人硬减日/手臂安排/私教腿 | captured | `BV1ysNn65EJ8`、`BV1wvMF6ZEqL`、`BV1RjTT6FEKo`。 |
 | 2026-08-12 | B 站本人腹肌/短片/手臂纯享 | captured | `BV1z8Th6BEij`、`BV1hjWgzREJn`、`BV1hyWwzeETh`。 |
 | 2026-08-12 | B 站本人私教肩/胸/背 | captured | `BV1csj36CEf9`、`BV1ZxEk6cEv1`、`BV1HR7o6CE8q`。 |
+| 2026-08-12 | B 站本人饮食胸/上肢关节/泡沫轴 | captured | `BV11QLv6EEqd`、`BV1ND5S6pEgx`、`BV1Xs97BqEsQ`。 |
 
 ## 小红书细扫降频约定（经验，非绕过）
 
