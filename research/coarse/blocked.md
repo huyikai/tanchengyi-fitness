@@ -24,6 +24,7 @@ updated_at: "2026-08-12"
 | 2026-08-12 | B 站本人三分化讲解/一期/背二头 | captured | `BV15iQeB7Epq`、`BV1adDsBUELf`、`BV1ofdnBZEi3`。 |
 | 2026-08-12 | B 站本人三分化腿/真空腹/赛前最后一练 | captured | `BV1Fzd2BBEdM`、`BV16KLB62ECE`、`BV1FwjJ6aEUT`。 |
 | 2026-08-12 | B 站本人一期入口/最后一周/韩国赛后 | captured | `BV1JjSSBbEsX`、`BV1NwoBBREkA`、`BV1qkVM6XEQe`。 |
+| 2026-08-12 | B 站本人护肤短讲/赛事轮次/三月减脂 | captured | `BV1TAJA6qEvc`、`BV1u5VK6NEfA`、`BV1g2A7zdENX`。 |
 
 ## 小红书细扫降频约定（经验，非绕过）
 
