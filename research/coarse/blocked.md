@@ -10,7 +10,16 @@ updated_at: "2026-08-12"
 | 2026-08-12 | B 站视频页（Browse MCP）如 `BV1qF6wBaEWu` | other | 曾触发 412（`assets/20260812-bilibili-BV-412.png`）。**登录后已恢复**：透视学①–④与三分化①–⑤已 captured。本人空间仍可能 412。 |
 | 2026-08-12 | 小红书无 token 的 explore 直链 | other | 无 `xsec_token` 时仍可能验证/无法浏览（error_code=300031）。**已验证解法**：从本人主页点入，URL 带 `xsec_token`/`xsec_source=pc_user` 后可截详情。 |
 | 2026-08-12 | 微信公众号搜索「谭成义 健身」 | not_found | 仍未找到可核验本人/官方公众号入口。 |
-| 2026-08-12 | 小红书高频点选 | other | 冷却后可再开 1 条（居家胸三头已 captured）；随后再次「点击成功但不跳转」。继续暂停点选。 |
+| 2026-08-12 | 小红书高频点选 | other | 曾「点击成功但不跳转」。改用降频 + 完整 token 直链后，本轮已补通用计划/四分化收官/下肢（见 `inbox/raw/20260812-xhs-general-plan.md` 等）。 |
+
+## 小红书细扫降频约定（经验，非绕过）
+
+- 只从本人主页点入详情，保留 `xsec_token`/`xsec_source=pc_user`；禁止无 token explore 直链。
+- **优先**：主页慢滚加载后，复制完整 `user/profile/.../<noteId>?xsec_token=...` 再 `navigate`（避免高频 click）；token 必须完整，截断会 `error_code=300017`。
+- 节奏：每条间隔约 45–90s；单轮最多 2～3 条；慢速滚动加载网格。
+- 成功判据：最终 URL 为 `/explore/<id>?xsec_token=...`；媒体黑屏可 **单次** reload，仍失败则记 blocked 并停。
+- 仍停在 profile / 点击不跳转 / 验证码：立即停，冷却 ≥15–30 分钟或交人工。
+- 单条闭环：打开 → 截图 → 落 raw → 间隔 → 再下一条。
 
 ## 本轮已补到（可从 blocked 降级）
 

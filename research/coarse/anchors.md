@@ -33,6 +33,9 @@ updated_at: "2026-08-12"
 | 私教跟练系列来喽！！（背部） | 抖音 | https://www.douyin.com/video/7647176615788911793 | 本人私教跟练合集入口；背部向长视频。 |
 | 新系列私教系列（背部） | 小红书 | https://www.xiaohongshu.com/explore/6a20eceb0000000037037515?xsec_token=AButGsBC6GhrK80AqNY3MPRoAthp0UMC0Jq6w1USLm9pI=&xsec_source=pc_user | 本人私教视角背部训练入口；可与抖音私教背对照。 |
 | 居家力量训练第一期（胸和三头） | 小红书 | https://www.xiaohongshu.com/explore/69b69a4d0000000021011a00?xsec_token=ABLjCmrcuq2SBRU2xKur1h9HdKLZJSfjNgKQFQ5uNR4tk=&xsec_source=pc_user | 本人居家系列胸三头；可与背二头/安排对照。 |
+| 新手和普通爱好者可以一直用的训练计划 | 小红书 | https://www.xiaohongshu.com/explore/69a0052b0000000015021ff1?xsec_token=ABPGGamcpuHpSOlfuxuDXgYbrM5EHGrP8SMAVzmyEXtDg=&xsec_source=pc_user | 本人长期通用计划入口；可与三/四分化对照。 |
+| 四分化最后一期（肩臂+休息日） | 小红书 | https://www.xiaohongshu.com/explore/69ac033b0000000015021712?xsec_token=ABXs46IEpcLlcS0tegcH9ZgXxqHdgdxWemMfL0CNukngA=&xsec_source=pc_user | 本人四分化收官；肩臂与休息日安排。 |
+| 四分化跟练第三期（下肢） | 小红书 | https://www.xiaohongshu.com/explore/69a6bf36000000001d010fcf?xsec_token=ABtfhZgkYozRT6F2_lzWzRxIo0gz3L19FZURQDnaiDO_w=&xsec_source=pc_user | 本人四分化下肢跟练。 |
 | 私教系列之胸部教学 | 小红书 | https://www.xiaohongshu.com/explore/6a2e5ab3000000001700ba03?xsec_token=ABA6NeJAEDXbADc2ATmi3di4ERmfdtadlBhpthHBc3Cv0=&xsec_source=pc_user | 本人私教胸分集；系列第三期无剪辑。 |
 | 凯圣王-谭成义三分化②——跟练胸肩三头 | Bilibili | https://www.bilibili.com/video/BV1CSoKBaEgK/ | 动态列出胸肩三头跟练动作和常见错误讲解。 |
 | 凯圣王-谭成义三分化④——跟练背三角肌后束二头 | Bilibili | https://www.bilibili.com/video/BV1v5opBhEDc/ | 覆盖背部、后束、二头的跟练与动作细节。 |
@@ -114,5 +117,5 @@ updated_at: "2026-08-12"
 - T6 背景类均不应混入训练正文，后续只用于人物识别、官方账号判断和版权风险提示。
 - 小红书本人主页已核验（1014738441）；私教分集与多条动作/恢复笔记已 captured；微信公众号仍无可靠官方锚点（见 `blocked.md`）。
 - 抖音本人高优细扫已基本覆盖；B 站透视学①–④与谭成义三分化①–⑥及饮食/节奏/计划上已细扫。
-- 小红书：居家胸三头、饮食+练胸已补；通用计划/四分化等仍可能需冷却后再点。
+- 小红书：降频后补通用计划、四分化收官/下肢；三分化背二头上下、腰腕肩不适等可下轮继续。
 - B 站本人空间 HTML 仍可能 412；视频页登录后可用。
