@@ -15,4 +15,4 @@ updated_at: "2026-08-12"
 | 抖音 | 凯圣王-谭成义三分化相关公开页 | https://www.douyin.com/shipin/7625835031486859291 | low | 焚绝三分化跟练等二创/跟练碎片 | 本机可打开；发布者「鹦鹉螺」，标签含 #谭成义 #凯圣王；侧栏多为跟练二创。截图 `assets/20260812-douyin-shipin-7625835031486859291.png`。非本人官方。 |
 | 抖音精选 | 健美大先生 | https://jingxuan.douyin.com/m/video/7610375496966572465 | low | 谭成义个人经历、自然古典 PRO 背景 | 公开可见的第三方背景材料，非本人账号，仅辅助识别人物背景。 |
 | 西瓜视频 | 富兰克林/奥赛显微镜 | https://m.ixigua.com/dx/7643755091141488357 | low | 谭成义赛事背景/职业卡讨论 | 第三方解读，不用于训练内容正文；只作为背景交叉线索。 |
-| 小红书 | （未核验本人账号） | https://www.xiaohongshu.com/search_result?keyword=%E8%B0%AD%E6%88%90%E4%B9%89%E5%81%A5%E8%BA%AB | unknown | — | 未登录：搜索栏提示「登录探索更多内容」，结果区空白。截图 `assets/20260812-xhs-search-tanchengyi.png`。不得列为官方来源。 |
+| 小红书 | 谭成义 | https://www.xiaohongshu.com/user/profile/5f9281d100000000010041df | high | 置顶减脂计划/手臂教学；动作教学与私教系列笔记 | 小红书号 **1014738441**；粉丝约 11.4 万；笔记约 152。Browse MCP 登录后搜索确认；截图 `assets/20260812-xhs-user-tanchengyi.png`、`assets/20260812-xhs-search-tanchengyi-logged-in.png`。单篇 explore 偶发风控。 |
