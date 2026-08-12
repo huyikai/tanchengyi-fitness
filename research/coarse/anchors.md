@@ -39,6 +39,8 @@ updated_at: "2026-08-12"
 | 私教系列之胸部教学 | 小红书 | https://www.xiaohongshu.com/explore/6a2e5ab3000000001700ba03?xsec_token=ABA6NeJAEDXbADc2ATmi3di4ERmfdtadlBhpthHBc3Cv0=&xsec_source=pc_user | 本人私教胸分集；系列第三期无剪辑。 |
 | 凯圣王-谭成义三分化②——跟练胸肩三头 | Bilibili | https://www.bilibili.com/video/BV1CSoKBaEgK/ | 动态列出胸肩三头跟练动作和常见错误讲解。 |
 | 凯圣王-谭成义三分化④——跟练背三角肌后束二头 | Bilibili | https://www.bilibili.com/video/BV1v5opBhEDc/ | 覆盖背部、后束、二头的跟练与动作细节。 |
+| 三分化背部，二头（上） | 小红书 | https://www.xiaohongshu.com/explore/69e32c6e000000001a027196?xsec_token=AB_hR4_JqRKH66ZorvbTrX_bmYzJeA-ReDje6YTw_YxHo=&xsec_source=pc_user | 本人三分化背二头上篇。 |
+| 三分化背二头（下） | 小红书 | https://www.xiaohongshu.com/explore/69e6d100000000001a031ed0?xsec_token=ABeaTsiC-2OTz9tcG70itWUketyZmriaWA7uw62KZyN9s=&xsec_source=pc_user | 本人三分化背二头下篇；含开肘拉等线索。 |
 | 凯圣王-谭成义三分化⑤——跟练腿股四头肌腘绳肌 | Bilibili | https://www.bilibili.com/video/BV17aovBqEdg/ | 腿部跟练分集，动态含腿部热身和动作列表。 |
 | 凯圣王-谭成义三分化⑥——约练背vlog | Bilibili | https://www.bilibili.com/video/BV1SEorB6Ekj/ | 合作约练背过程；可与抖音共创对照。 |
 | 第二期私教系列之手臂教学，希望对大家有所帮助！！ | Bilibili | https://www.bilibili.com/video/BV1GzEg6wEVb/ | 谭成义本人账号 owner，适合代表本人私教系列。 |
@@ -69,6 +71,7 @@ updated_at: "2026-08-12"
 | 标题 | 平台 | URL | 入选原因 |
 |------|------|-----|----------|
 | 一次性看完三分化热身整套流程！！ | 抖音 | https://www.douyin.com/video/7638569547629063665 | 本人三分化胸/背/下肢热身整套；可与合作分集热身对照。 |
+| 肌肉放松（泡沫轴完整使用方法） | 小红书 | https://www.xiaohongshu.com/explore/69ccc730000000001a032a29?xsec_token=ABzgTEe1dgO1vVryXg3FsafL6uQzIDlXGKNBTgeLOLIUI=&xsec_source=pc_user | 本人泡沫轴放松教学；高互动恢复锚点。 |
 | 第18集：全身完整拉伸教学 | 抖音 | https://www.douyin.com/video/7645715297237252785 | 本人焚决第18集；全身多部位拉伸章节齐全。 |
 | 休息日日常安排 | 抖音 | https://www.douyin.com/video/7672754038597160305 | 本人休息日 VLOG；爬楼有氧 + 腹肌 + 补剂线索。 |
 | 真空腹的作用和具体的练习方法 | 抖音 | https://www.douyin.com/video/7641185671931550714 | 本人恢复合集第30集；真空腹作用与退阶练习。 |
@@ -117,5 +120,5 @@ updated_at: "2026-08-12"
 - T6 背景类均不应混入训练正文，后续只用于人物识别、官方账号判断和版权风险提示。
 - 小红书本人主页已核验（1014738441）；私教分集与多条动作/恢复笔记已 captured；微信公众号仍无可靠官方锚点（见 `blocked.md`）。
 - 抖音本人高优细扫已基本覆盖；B 站透视学①–④与谭成义三分化①–⑥及饮食/节奏/计划上已细扫。
-- 小红书：降频后补通用计划、四分化收官/下肢；三分化背二头上下、腰腕肩不适等可下轮继续。
+- 小红书：背二头上下、泡沫轴放松已补；居家下肢、腰腕肩不适、拉日等可继续。
 - B 站本人空间 HTML 仍可能 412；视频页登录后可用。
