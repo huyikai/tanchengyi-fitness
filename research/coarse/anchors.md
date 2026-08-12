@@ -13,31 +13,31 @@ updated_at: "2026-08-12"
 
 | 标题 | 平台 | URL | 入选原因 |
 |------|------|-----|----------|
+| 焚诀跟练系列开启（胸部训练） | 抖音 | https://www.douyin.com/video/7575186300258749798 | 本人「焚决/焚诀跟练」合集入口向长视频；含热身与容量讨论。 |
 | 凯圣王-谭成义三分化①——训练计划 | Bilibili | https://www.bilibili.com/video/BV1FcdZBNEm3/ | 合作系列入口，动态说明覆盖动作选择、周期计划、设计思路。 |
 | 凯圣王-谭成义三分化③——名词释义 | Bilibili | https://www.bilibili.com/video/BV1hCdSBaEvw/ | 解释组间歇、RM、RPE、训练频率等计划术语。 |
 | 三分化-训练节奏详解 | Bilibili | https://www.bilibili.com/video/BV1aQ1VYyE5B/ | 三分化系列中专门讲训练节奏的分集。 |
 | 三分化-计划上 | Bilibili | https://www.bilibili.com/video/BV1hjUVYJE8X/ | B 站 API season 列出的三分化计划分集之一。 |
-| 三分化-计划中 | Bilibili | https://www.bilibili.com/video/BV1KZU8Y4EoF/ | 与“计划上/下”组成计划编排链路。 |
 
 ## T2 部位跟练与私教视角
 
 | 标题 | 平台 | URL | 入选原因 |
 |------|------|-----|----------|
+| 私教跟练系列来喽！！（背部） | 抖音 | https://www.douyin.com/video/7647176615788911793 | 本人私教跟练合集入口；背部向长视频。 |
 | 凯圣王-谭成义三分化②——跟练胸肩三头 | Bilibili | https://www.bilibili.com/video/BV1CSoKBaEgK/ | 动态列出胸肩三头跟练动作和常见错误讲解。 |
 | 凯圣王-谭成义三分化④——跟练背三角肌后束二头 | Bilibili | https://www.bilibili.com/video/BV1v5opBhEDc/ | 覆盖背部、后束、二头的跟练与动作细节。 |
 | 凯圣王-谭成义三分化⑤——跟练腿股四头肌腘绳肌 | Bilibili | https://www.bilibili.com/video/BV17aovBqEdg/ | 腿部跟练分集，动态含腿部热身和动作列表。 |
 | 第二期私教系列之手臂教学，希望对大家有所帮助！！ | Bilibili | https://www.bilibili.com/video/BV1GzEg6wEVb/ | 谭成义本人账号 owner，适合代表本人私教系列。 |
-| 三分化背部计划-第三视角跟练 | Bilibili | https://www.bilibili.com/video/BV1MvkxYPEDR/ | 三分化 season 中的背部第三视角跟练。 |
 
 ## T3 动作技术与器械细节
 
 | 标题 | 平台 | URL | 入选原因 |
 |------|------|-----|----------|
 | 罗马尼亚硬拉动作介绍 | 抖音 | https://www.douyin.com/video/7671852814386030521 | 本人账号动作教学；可与 B 站透视学 RDL 对照。 |
+| 健身房器械讲解系列（坐姿夹胸/反飞鸟一体机） | 抖音 | https://www.douyin.com/video/7661923214516256369 | 本人器械合集代表作；讲一体机用法与变式。 |
 | 透视学动作①——卧推详解 | Bilibili | https://www.bilibili.com/video/BV1ZHzMBmEtj/ | 多个三分化视频简介列为往期动作详解。 |
 | 透视学动作②——哑铃推肩详解 | Bilibili | https://www.bilibili.com/video/BV1xtzCBhEYN/ | 与推肩/肩部训练技术相关的动作锚点。 |
 | 透视学动作③——罗马尼亚硬拉详解 | Bilibili | https://www.bilibili.com/video/BV1qF6wBaEWu/ | 腿后侧/髋铰链技术代表锚点。 |
-| 透视学动作④——正反高位下拉的区别 | Bilibili | https://www.bilibili.com/video/BV1zyAUztE1n/ | 背部下拉变式与发力区别相关。 |
 
 ## T4 热身、拉伸与恢复
 
