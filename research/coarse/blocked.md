@@ -6,7 +6,7 @@ updated_at: "2026-08-12"
 
 | 时间 | 平台/URL | 原因 | 下一步 |
 |------|----------|------|--------|
-| 2026-08-12 | https://space.bilibili.com/521903482/ | other | 本机 Chrome 仍 HTTP 412，截图为空白页。视频页可核验 UP 主。 |
+| 2026-08-12 | https://space.bilibili.com/521903482/ | other | 本机 Chrome 仍 HTTP 412/出错页；20260812 再试仍 title「出错啦」且截图空白（`assets/20260812-bilibili-space-521903482-retry.png`）。视频页可核验 UP 主。 |
 | 2026-08-12 | 小红书无 token 的 explore 直链 | other | 无 `xsec_token` 时仍可能验证/无法浏览（error_code=300031）。**已验证解法**：从本人主页点入，URL 带 `xsec_token`/`xsec_source=pc_user` 后可截详情。 |
 | 2026-08-12 | 微信公众号搜索「谭成义 健身」 | not_found | 仍未找到可核验本人/官方公众号入口。 |
 
@@ -22,6 +22,7 @@ updated_at: "2026-08-12"
 | 2026-08-12 | 小红书动作/恢复笔记 | 高位下拉、哑铃划船/反飞鸟、哑铃卧推推肩、器械一体机、手臂安排、睡眠减脂已 captured |
 | 2026-08-12 | 小红书三分化/备赛/恢复 | 三分化收官、AGP 职业卡、真空腹、上肢关节已 captured |
 | 2026-08-12 | 小红书三分化续扫/居家 | 第一期讲解、第一期上、新手跟练、居家安排、居家背二头已 captured |
+| 2026-08-12 | 小红书继续点选详情 | other | 高频采集后出现「点击成功但不跳转 explore」；体态纠正已 captured。暂停点选，稍后重试或换平台。 |
 | 2026-08-12 | B 站视频 `BV1EkV96nEyg`（拉伸） | 页面可读，截图 `assets/20260812-bilibili-BV1EkV96nEyg.png` |
 | 2026-08-12 | B 站视频 `BV1GzEg6wEVb`（手臂私教） | HTTP 200，UP 主谭成义，截图 `assets/20260812-bilibili-BV1GzEg6wEVb.png` |
 | 2026-08-12 | B 站凯圣王主页 | 可见粉丝/投稿/代表作，截图 `assets/20260812-bilibili-space-2100737396-kaisw.png` |
