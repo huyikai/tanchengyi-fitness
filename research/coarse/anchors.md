@@ -40,6 +40,9 @@ updated_at: "2026-08-12"
 
 | 标题 | 平台 | URL | 入选原因 |
 |------|------|-----|----------|
+| 哑铃侧平举动作教学 | 抖音 | https://www.douyin.com/video/7666644718105452666 | 本人器械合集第1集；肩中束技术入口。 |
+| 哑铃推胸与推肩动作教学 | 抖音 | https://www.douyin.com/video/7668880941976944817 | 本人器械合集第2集；推胸三模式+推肩。 |
+| 高位下拉动作讲解 | 抖音 | https://www.douyin.com/video/7662562022056718449 | 本人器械合集第3集；宽距/反手/对握对照。 |
 | 沉肩的作用，弊端以及如何做 | 抖音 | https://www.douyin.com/video/7664787164882481402 | 本人沉肩技术/体态；含作用、做法、弊端与进阶。 |
 | 罗马尼亚硬拉动作介绍 | 抖音 | https://www.douyin.com/video/7671852814386030521 | 本人账号动作教学；可与 B 站透视学 RDL 对照。 |
 | 罗马尼亚硬拉动作 | 小红书 | https://www.xiaohongshu.com/explore/6a7ad28d000000002402f3dd?xsec_token=ABxAYc0cd1E8GJlkGZ42avpZJ7i5rWj5uRv4UwWdMJp20=&xsec_source=pc_user | 本人账号 RDL 教学；跨平台对照抖音/B 站。 |
@@ -57,6 +60,8 @@ updated_at: "2026-08-12"
 |------|------|-----|----------|
 | 一次性看完三分化热身整套流程！！ | 抖音 | https://www.douyin.com/video/7638569547629063665 | 本人三分化胸/背/下肢热身整套；可与合作分集热身对照。 |
 | 休息日日常安排 | 抖音 | https://www.douyin.com/video/7672754038597160305 | 本人休息日 VLOG；爬楼有氧 + 腹肌 + 补剂线索。 |
+| 真空腹的作用和具体的练习方法 | 抖音 | https://www.douyin.com/video/7641185671931550714 | 本人恢复合集第30集；真空腹作用与退阶练习。 |
+| 上肢关节问题参考（功能性训练） | 抖音 | https://www.douyin.com/video/7639553118070415077 | 本人恢复合集第29集；腕肘肩等上肢不适训练线索。 |
 | 好的训练就是拉伸，好的拉伸就是训练，希望对大家有所帮助！！ | Bilibili | https://www.bilibili.com/video/BV1EkV96nEyg/ | 谭成义本人账号 owner，直接对应拉伸/恢复主题。 |
 | 全身完整拉伸教学 | 小红书 | https://www.xiaohongshu.com/explore/6a1ce428000000003700dd83?xsec_token=ABPpEEo7oHPdbMY7laDzmE6O5Bi1IwYeQWIDEtKEa8FQM=&xsec_source=pc_user | 本人拉伸教学；文案与 B 站拉伸片表述一致。 |
 | 上肢关节和肌腱不适调整思路 | 小红书 | https://www.xiaohongshu.com/explore/6a05325f000000003701d827?xsec_token=ABq19VuvOhR7EWem0S9bg-S8fj00ykiaOLwGdQnE38dtk=&xsec_source=pc_user | 本人功能性/疼痛管理向；关节肌腱不适。 |
@@ -93,6 +98,6 @@ updated_at: "2026-08-12"
 - T5 已有抖音本人置顶减脂计划；B 站侧仍多凯圣王合作，细扫时区分合作 vs 本人。
 - T6 背景类均不应混入训练正文，后续只用于人物识别、官方账号判断和版权风险提示。
 - 小红书本人主页已核验（1014738441）；私教分集与多条动作/恢复笔记已 captured；微信公众号仍无可靠官方锚点（见 `blocked.md`）。
-- 抖音焚决背/三分化热身/补剂第5集/休息日/沉肩已细扫；焚决其余分集与侧平举等可继续。
+- 抖音器械合集 1–3 集（侧平举/推胸推肩/高位下拉）与真空腹、上肢关节已细扫；饮食计划/备赛周等可继续。
 - 小红书软风控冷却后再补肌肉放松、居家胸三头等。
 - B 站本人空间 HTML 仍 412，可继续用视频页核验。
