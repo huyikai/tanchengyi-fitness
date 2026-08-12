@@ -30,6 +30,7 @@ updated_at: "2026-08-12"
 | 2026-08-12 | B 站本人最后一周短/开整/做好自己 | captured | `BV1dHoSB6EUC`、`BV14DdSBoEmG`、`BV1y39cBGE1P`。 |
 | 2026-08-12 | B 站本人继续努力/视频打包短片 | captured | `BV1BfQEBjE9P`、`BV1tT5M6zEzA`。首屏短片队列清完；已翻到投稿第 2 页。 |
 | 2026-08-12 | B 站本人居家背/居家一期/四分化收官 | captured | `BV1oEwZzVEP4`、`BV1MvwxzGEio`、`BV192Nwz4E9n`。 |
+| 2026-08-12 | B 站本人通用计划/下肢/居家腿 | captured | `BV1S8ArzREru`、`BV13nPFzCENK`、`BV1LbcWzyE64`。 |
 
 ## 小红书细扫降频约定（经验，非绕过）
 
