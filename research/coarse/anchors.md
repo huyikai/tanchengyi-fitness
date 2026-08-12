@@ -25,6 +25,7 @@ updated_at: "2026-08-12"
 |------|------|-----|----------|
 | 私教跟练系列来喽！！（背部） | 抖音 | https://www.douyin.com/video/7647176615788911793 | 本人私教跟练合集入口；背部向长视频。 |
 | 新系列私教系列（背部） | 小红书 | https://www.xiaohongshu.com/explore/6a20eceb0000000037037515?xsec_token=AButGsBC6GhrK80AqNY3MPRoAthp0UMC0Jq6w1USLm9pI=&xsec_source=pc_user | 本人私教视角背部训练入口；可与抖音私教背对照。 |
+| 私教系列之胸部教学 | 小红书 | https://www.xiaohongshu.com/explore/6a2e5ab3000000001700ba03?xsec_token=ABA6NeJAEDXbADc2ATmi3di4ERmfdtadlBhpthHBc3Cv0=&xsec_source=pc_user | 本人私教胸分集；系列第三期无剪辑。 |
 | 凯圣王-谭成义三分化②——跟练胸肩三头 | Bilibili | https://www.bilibili.com/video/BV1CSoKBaEgK/ | 动态列出胸肩三头跟练动作和常见错误讲解。 |
 | 凯圣王-谭成义三分化④——跟练背三角肌后束二头 | Bilibili | https://www.bilibili.com/video/BV1v5opBhEDc/ | 覆盖背部、后束、二头的跟练与动作细节。 |
 | 凯圣王-谭成义三分化⑤——跟练腿股四头肌腘绳肌 | Bilibili | https://www.bilibili.com/video/BV17aovBqEdg/ | 腿部跟练分集，动态含腿部热身和动作列表。 |
@@ -78,6 +79,7 @@ updated_at: "2026-08-12"
 - T3 动作技术中部分 BV 来自视频简介/搜索索引；细扫需逐条打开核验与截图。
 - T5 已有抖音本人置顶减脂计划；B 站侧仍多凯圣王合作，细扫时区分合作 vs 本人。
 - T6 背景类均不应混入训练正文，后续只用于人物识别、官方账号判断和版权风险提示。
-- 小红书本人主页已核验（1014738441）；多条单篇已 captured（须主页点入带 token）；微信公众号仍无可靠官方锚点（见 `blocked.md`）。
+- 小红书本人主页已核验（1014738441）；私教分集（背/胸/肩/臂/腿/腹）已 captured；微信公众号仍无可靠官方锚点（见 `blocked.md`）。
 - 抖音合集「焚决之跟练系列」等可作 T1/T2 后续细扫入口。
-- 小红书私教胸/肩/臂/腿/腹分集笔记仍可继续细扫。
+- 小红书高位下拉/哑铃系列/器械讲解等动作笔记可继续细扫。
+- 小红书频繁点选可能触发安全验证，放慢节奏或人工过验后继续。
