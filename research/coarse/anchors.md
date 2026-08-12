@@ -87,6 +87,7 @@ updated_at: "2026-08-12"
 | 保姆级减脂计划（置顶） | 小红书 | https://www.xiaohongshu.com/explore/69bcf2ed00000000210129e5?xsec_token=ABz5gCBsBVt0_wSIu3CKTe6SUxx2_cRrRwQRsLLx97Mqw=&xsec_source=pc_user | 本人主页置顶；要点「减脂不是减重」；与抖音减脂计划主题对应（须带 token）。 |
 | 好好吃饭好好睡觉（睡眠质量/减脂） | 小红书 | https://www.xiaohongshu.com/explore/6a69536f000000000101f3df?xsec_token=ABFFT7SIX-U_UU_B0eAf87UgsXZAiwJ0B3Yb86eWKKBrE=&xsec_source=pc_user | 本人长视频；睡眠与减脂交叉。 |
 | 睡眠质量的具体调整方式 | 抖音 | https://www.douyin.com/video/7665996589064850289 | 本人睡眠调整方法；可与小红书睡眠笔记对照。 |
+| 具体饮食安排以及做法 + 练胸细节 | 小红书 | https://www.xiaohongshu.com/explore/6a0fe990000000003701ddf8?xsec_token=ABQfeqrnDBqbT7GLhKWT01NInsS4vdenkai1pLMbzfNyk=&xsec_source=pc_user | 本人饮食做法+练胸；可与抖音韩国赛饮食对照。 |
 | 三分化-饮食详解 | Bilibili | https://www.bilibili.com/video/BV1z8zPYjE4j/ | B 站 API 可见，动态概括热量、碳蛋脂、时间轴。 |
 | 三分化-练后怎么吃详解 | Bilibili | https://www.bilibili.com/video/BV1mnCGYFEUw/ | 三分化 season 中的练后进食分集。 |
 | 减脂第十天/碳水在身体内的去向/碳水前置后置的区别/碳水循环计划的简聊/训练前什么时间吃碳水 | Bilibili | https://www.bilibili.com/video/BV18N411f7gp/ | 搜索结果显示与碳水循环、训练前碳水安排相关。 |
@@ -111,5 +112,5 @@ updated_at: "2026-08-12"
 - T6 背景类均不应混入训练正文，后续只用于人物识别、官方账号判断和版权风险提示。
 - 小红书本人主页已核验（1014738441）；私教分集与多条动作/恢复笔记已 captured；微信公众号仍无可靠官方锚点（见 `blocked.md`）。
 - 抖音本人高优细扫已基本覆盖；B 站透视学①–④与谭成义三分化①–⑥及饮食/节奏/计划上已细扫。
-- 小红书软风控：冷却后仅稳定开 1 条（居家胸三头）；通用计划/四分化等仍待人工过验或稍后再点。
+- 小红书：居家胸三头、饮食+练胸已补；通用计划/四分化等仍可能需冷却后再点。
 - B 站本人空间 HTML 仍可能 412；视频页登录后可用。
