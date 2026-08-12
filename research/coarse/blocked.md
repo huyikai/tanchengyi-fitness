@@ -16,6 +16,7 @@ updated_at: "2026-08-12"
 | 2026-08-12 | B 站减脂第10/15天碳水循环锚点 | captured | 凯圣王账号：`20260812-bilibili-fatloss-day10-carb.md`、`day15-carb.md`（low）。 |
 | 2026-08-12 | 小红书主页缺口续扫 `6a3e7af2…` | other | 完整 token 直链后仍 load 超时/黑屏；已单次 reload 仍空页。**停扫 XHS**，冷却 ≥15–30 分钟。未捕获 ID 队列：`6a3e7af2`、`6a3bd8b5`、`6a366ff0`、`6a158e5a`、`6a0d0153`、`6a02d4c4`、`6a008bf4`、`69ec7763`（及主页更早页）。 |
 | 2026-08-12 | B 站本人空间恢复 + 近作技术片 | captured | 空间 raw + 本人 RDL/`BV1hauq6EEfW`、划船反飞鸟/`BV1E8un61EVg`、卧推推肩/`BV1T6GG6mEo9`。 |
+| 2026-08-12 | B 站本人睡眠/高位下拉/一体机 | captured | `BV1w53J6REfW`、`BV14QKF6FEkP`、`BV1PcNQ6AE3f`。 |
 
 ## 小红书细扫降频约定（经验，非绕过）
 
