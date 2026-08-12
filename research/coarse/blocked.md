@@ -28,6 +28,7 @@ updated_at: "2026-08-12"
 | 2026-08-12 | B 站本人夺冠/高清体态/出发韩国短片 | captured | `BV18YGH6VEHQ`、`BV1PHjo6VEjt`、`BV1WXLy6zEAs`。 |
 | 2026-08-12 | B 站本人造型/找问题/赛前两周短片 | captured | `BV18ULj6BEpt`、`BV1oG5n6REm8`、`BV1NqdzBoEwR`。 |
 | 2026-08-12 | B 站本人最后一周短/开整/做好自己 | captured | `BV1dHoSB6EUC`、`BV14DdSBoEmG`、`BV1y39cBGE1P`。 |
+| 2026-08-12 | B 站本人继续努力/视频打包短片 | captured | `BV1BfQEBjE9P`、`BV1tT5M6zEzA`。首屏短片队列清完；已翻到投稿第 2 页。 |
 
 ## 小红书细扫降频约定（经验，非绕过）
 
