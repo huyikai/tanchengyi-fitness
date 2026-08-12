@@ -18,6 +18,7 @@ updated_at: "2026-08-12"
 | 2026-08-12 | B 站本人空间恢复 + 近作技术片 | captured | 空间 raw + 本人 RDL/`BV1hauq6EEfW`、划船反飞鸟/`BV1E8un61EVg`、卧推推肩/`BV1T6GG6mEo9`。 |
 | 2026-08-12 | B 站本人睡眠/高位下拉/一体机 | captured | `BV1w53J6REfW`、`BV14QKF6FEkP`、`BV1PcNQ6AE3f`。 |
 | 2026-08-12 | B 站本人硬减日/手臂安排/私教腿 | captured | `BV1ysNn65EJ8`、`BV1wvMF6ZEqL`、`BV1RjTT6FEKo`。 |
+| 2026-08-12 | B 站本人腹肌/短片/手臂纯享 | captured | `BV1z8Th6BEij`、`BV1hjWgzREJn`、`BV1hyWwzeETh`。 |
 
 ## 小红书细扫降频约定（经验，非绕过）
 
