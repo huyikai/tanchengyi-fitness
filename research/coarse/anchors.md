@@ -75,8 +75,12 @@ updated_at: "2026-08-12"
 | 标题 | 平台 | URL | 入选原因 |
 |------|------|-----|----------|
 | 非常完整的减脂计划视频（置顶） | 抖音 | https://www.douyin.com/video/7618962209967965617 | 本人主页置顶；减脂饮食计划入口，官方向。 |
+| 新饮食计划教程（硬减日 + 练胸） | 抖音 | https://www.douyin.com/video/7660136955972019877 | 本人赛前个案饮食 + 胸部教学混合。 |
+| 韩国赛倒计时（全天饮食 + 练胸） | 抖音 | https://www.douyin.com/video/7642300123128891067 | 本人韩国赛倒计时全天饮食做法与练胸细节。 |
+| 减脂餐➕练腿教学 | 抖音 | https://www.douyin.com/video/7663876801953801721 | 本人减脂餐与练腿混合长视频。 |
 | 保姆级减脂计划（置顶） | 小红书 | https://www.xiaohongshu.com/explore/69bcf2ed00000000210129e5?xsec_token=ABz5gCBsBVt0_wSIu3CKTe6SUxx2_cRrRwQRsLLx97Mqw=&xsec_source=pc_user | 本人主页置顶；要点「减脂不是减重」；与抖音减脂计划主题对应（须带 token）。 |
 | 好好吃饭好好睡觉（睡眠质量/减脂） | 小红书 | https://www.xiaohongshu.com/explore/6a69536f000000000101f3df?xsec_token=ABFFT7SIX-U_UU_B0eAf87UgsXZAiwJ0B3Yb86eWKKBrE=&xsec_source=pc_user | 本人长视频；睡眠与减脂交叉。 |
+| 睡眠质量的具体调整方式 | 抖音 | https://www.douyin.com/video/7665996589064850289 | 本人睡眠调整方法；可与小红书睡眠笔记对照。 |
 | 三分化-饮食详解 | Bilibili | https://www.bilibili.com/video/BV1z8zPYjE4j/ | B 站 API 可见，动态概括热量、碳蛋脂、时间轴。 |
 | 三分化-练后怎么吃详解 | Bilibili | https://www.bilibili.com/video/BV1mnCGYFEUw/ | 三分化 season 中的练后进食分集。 |
 | 减脂第十天/碳水在身体内的去向/碳水前置后置的区别/碳水循环计划的简聊/训练前什么时间吃碳水 | Bilibili | https://www.bilibili.com/video/BV18N411f7gp/ | 搜索结果显示与碳水循环、训练前碳水安排相关。 |
@@ -91,6 +95,7 @@ updated_at: "2026-08-12"
 | 谭成义古典自然卡意味着什么 | 抖音公开索引 | https://www.douyin.com/shipin/7644737030634686499 | 公开索引显示自然古典 PRO 相关讨论。 |
 | 中国古典谭成义拿下职业卡 | 西瓜视频 | https://m.ixigua.com/dx/7643755091141488357 | 第三方赛事背景讨论，低优先级辅助线索。 |
 | 韩国 AGP 拿下自然职业卡 | 小红书 | https://www.xiaohongshu.com/explore/6a13d140000000003601d6a1?xsec_token=ABJtWvj6fFUwNxVSwr47cNjapPx7SwnDYF2fPo_x4o-q0=&xsec_source=pc_user | 本人账号赛事短视频；IFBB 舞台画面。 |
+| 最后一周喽！！期待中！！ | 抖音 | https://www.douyin.com/video/7632602176263177915 | 本人赛前最后一周状态短片；备赛时间线锚点。 |
 
 ## 缺口
 
@@ -98,6 +103,6 @@ updated_at: "2026-08-12"
 - T5 已有抖音本人置顶减脂计划；B 站侧仍多凯圣王合作，细扫时区分合作 vs 本人。
 - T6 背景类均不应混入训练正文，后续只用于人物识别、官方账号判断和版权风险提示。
 - 小红书本人主页已核验（1014738441）；私教分集与多条动作/恢复笔记已 captured；微信公众号仍无可靠官方锚点（见 `blocked.md`）。
-- 抖音器械合集 1–3 集（侧平举/推胸推肩/高位下拉）与真空腹、上肢关节已细扫；饮食计划/备赛周等可继续。
+- 抖音饮食/备赛链（新饮食、韩国赛饮食、减脂餐练腿、睡眠、最后一周）已细扫；夹胸肩不适/赛前出发等可继续。
 - 小红书软风控冷却后再补肌肉放松、居家胸三头等。
 - B 站本人空间 HTML 仍 412，可继续用视频页核验。
