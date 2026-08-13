@@ -28,5 +28,5 @@ screenshots:
 ## Agent 备注
 
 - 从本人主页复制带完整 `xsec_token` 的 profile 直链后 navigate；最终 URL 为 `/explore/<id>?xsec_token=...`。
-- B 站对照 `BV1mwPMzZEg8` 封面为大字「四分化跟练（二）」。
+- B 站对照 `BV1mwPMzZEg8` 封面为大字「四分化跟练（二）」；B 站字幕可见跪姿肘屈伸、坐姿划船、二头。
 - 已合成：`content/plans/four-split.md`

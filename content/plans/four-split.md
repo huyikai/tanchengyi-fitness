@@ -19,6 +19,7 @@ screenshots:
   - "../../inbox/assets/20260813-cover-BV1S8ArzREru.jpg"
   - "../../inbox/assets/20260813-foursplit-ep1-t197.png"
   - "../../inbox/assets/20260813-cover-BV1mwPMzZEg8.jpg"
+  - "../../inbox/assets/20260813-foursplit-ep2-t260.png"
   - "../../inbox/assets/20260813-cover-BV13nPFzCENK.jpg"
   - "../../inbox/assets/20260813-cover-BV192Nwz4E9n.jpg"
 updated_at: "2026-08-13"
@@ -32,14 +33,14 @@ updated_at: "2026-08-13"
 | 期 | 封面大字 | 投稿标题线索 | 入口 |
 |----|----------|--------------|------|
 | ① | 新手爱好者四分化跟练系列（一） | 新手爱好者可以长期使用的一套训练计划（约 19:15，2026-02-26）。**当天跟练偏胸+推**，见下。 | B 站 `BV1S8ArzREru`；小红书 `69a0052b` 同主题。长期通用计划入口仍见 [general-plan.md](./general-plan.md)，**同一条视频，不是两套课表**。 |
-| ② | 新手通用 四分化跟练（二） | 干货比较多，讲的比较细（约 30:23，2026-03-01，标签含计划/干货） | B 站 `BV1mwPMzZEg8`；小红书对照 `69a41beb`（标签背部训练，页面联想词「四分化训练」）。 |
+| ② | 新手通用 四分化跟练（二） | 干货比较多，讲的比较细（约 30:23，2026-03-01）。**当天跟练偏背+二头**，见下。 | B 站 `BV1mwPMzZEg8`；小红书对照 `69a41beb`（标签背部训练）。 |
 | ③ | 新手通用 四分化跟练（三） | 下肢整体性和跟练计划（约 15:37，2026-03-03） | B 站 `BV13nPFzCENK`；小红书 `69a6bf36` 标题写明第三期下肢。 |
 | ④ 收官 | 新手通用 四分化跟练（四） | 四分化最后一期，肩和手臂的跟练计划（约 25:53，2026-03-07） | B 站 `BV192Nwz4E9n`；小红书 `69ac033b` 文案另含**休息日安排**。 |
 
 - **收官画面**：实力推/站姿杠铃推肩跟练。文案同时覆盖休息日；评论区「休息日仍可能有氧/腹」「坐姿推肩 vs 实力推替换」只作互动线索，不作正文规定。
 - **① 当天跟练（据字幕/画面，不是评论课表）**：开场谈计划怎么安排。热身可见弹力带。正式动作字幕/画面线索：约 03:17 绳索夹胸（「我们从下胸开始」）→ 约 05:10–05:30 主项并点名杠铃卧推（「不要对杠铃卧推…」）→ 约 12:45 「卧推上斜器械」→ 约 14:41 「实力推这个动作」→ 约 17:33 「颈后绳索臂屈伸」。组数未在这些帧的画面上写出；评论区粉丝时间戳课表**不作正文来源**。
-- **② 部位**：小红书对照标签为背部训练；B 站封面未写部位。不要把②升成「已核实的背日课表」。
-- **本条没有**：②③④ 的完整动作表、任何一期的组数、休息日具体内容。需要跟练打开对应原片。
+- **② 当天跟练（据字幕/画面，不是评论课表）**：热身约 04:20 字幕「跪姿肘屈伸」。绳索位约 09:20–09:40 纠正塌肩、谈上回旋（这些帧未写出动作名）。约 13:00 坐姿划船类，字幕「把人向后推」；约 22:26 再次坐在划船位。收尾约 28:21 点名二头，约 28:40 画面为站姿杠铃弯举（字幕「稍微稳定一点」）。组数未在这些帧写出；评论区粉丝时间戳课表**不作正文来源**。
+- **本条没有**：③④ 的完整动作表、任何一期的组数、休息日具体内容。需要跟练打开对应原片。
 
 ## 出处与截图
 
@@ -53,6 +54,10 @@ updated_at: "2026-08-13"
 | B 站① 颈后绳索臂屈伸 | https://www.bilibili.com/video/BV1S8ArzREru/ | high | `../../inbox/assets/20260813-foursplit-ep1-t1053.png` |
 | 小红书①同主题 | https://www.xiaohongshu.com/explore/69a0052b0000000015021ff1 | high | `../../inbox/assets/20260812-xhs-general-plan.png` |
 | B 站②（封面：（二）） | https://www.bilibili.com/video/BV1mwPMzZEg8/ | high | `../../inbox/assets/20260813-cover-BV1mwPMzZEg8.jpg` |
+| B 站② 跪姿肘屈伸 | https://www.bilibili.com/video/BV1mwPMzZEg8/ | high | `../../inbox/assets/20260813-foursplit-ep2-t260.png` |
+| B 站② 绳索位/塌肩 | https://www.bilibili.com/video/BV1mwPMzZEg8/ | high | `../../inbox/assets/20260813-foursplit-ep2-t560.png` |
+| B 站② 坐姿划船 | https://www.bilibili.com/video/BV1mwPMzZEg8/ | high | `../../inbox/assets/20260813-foursplit-ep2-t780.png` |
+| B 站② 二头/杠铃弯举 | https://www.bilibili.com/video/BV1mwPMzZEg8/ | high | `../../inbox/assets/20260813-foursplit-ep2-t1720.png` |
 | 小红书②背部干货对照 | https://www.xiaohongshu.com/explore/69a41beb000000001b01dcc8 | high | `../../inbox/assets/20260813-xhs-note-back-detail-0314.png` |
 | B 站③（封面：（三）下肢） | https://www.bilibili.com/video/BV13nPFzCENK/ | high | `../../inbox/assets/20260813-cover-BV13nPFzCENK.jpg` |
 | 小红书③下肢 | https://www.xiaohongshu.com/explore/69a6bf36000000001d010fcf | high | `../../inbox/assets/20260812-xhs-four-split-leg.png` |
