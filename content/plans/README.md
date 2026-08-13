@@ -5,7 +5,7 @@
 | 条目 | 状态 | 说明 |
 |------|------|------|
 | [三分化](./split3.md) | draft | 推/拉/腿结构 + 本人与合作分集对照 |
-| [四分化](./four-split.md) | draft | 新手通用①–④；①胸+推、②背+二头已回看字幕 |
+| [四分化](./four-split.md) | draft | 新手通用①–④；①胸+推、②背+二头、③下肢已回看字幕 |
 | [居家](./home-plan.md) | draft | 哑铃向：安排、胸三头、背二头、下肢 |
 | [长期通用计划](./general-plan.md) | draft | 与四分化①同一条；当天跟练见 four-split |
 | [组数 / RM / RPE](./training-variables.md) | draft | 标题已点名的变量；数字须回看原片 |

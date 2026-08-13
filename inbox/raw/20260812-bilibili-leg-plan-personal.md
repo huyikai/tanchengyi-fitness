@@ -25,5 +25,5 @@ screenshots:
 
 ## Agent 备注
 
-- 未摘录口播全文。
+- 字幕/画面可见哥本哈根支撑、单腿哑铃硬拉、弓步、站姿提踵。组数未从画面抄出。
 - 已合成：`content/plans/four-split.md`
