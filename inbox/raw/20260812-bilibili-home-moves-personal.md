@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1L2cazNELf/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2", "T6"]
 screenshots:
   - "../assets/20260812-bilibili-BV1L2cazNELf.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录具体动作名表。
+- 已合成：`content/plans/home-plan.md`

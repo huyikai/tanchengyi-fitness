@@ -29,3 +29,4 @@ screenshots:
 
 - 未整段搬运章节说明；赞助/产品句仅作线索标注。标题中的组数/组间与可见短章节不完全一一对应，后续 curated 需回看核实。
 - 已合成：`content/nutrition/macros.md`
+- 已合成：`content/plans/training-variables.md`

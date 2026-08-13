@@ -1,4 +1,4 @@
-﻿---
+---
 id: "20260812-xhs-four-split-leg"
 platform: "xiaohongshu"
 title: "四分化跟练第三期（下肢）"
@@ -29,3 +29,4 @@ screenshots:
 
 - 本轮第 3 条（达单轮上限）；降频 token 直链进入成功。未摘录动作表。
 - 已合成：`content/plans/general-plan.md`
+- 已合成：`content/plans/four-split.md`

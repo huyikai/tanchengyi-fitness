@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/explore/6a20eceb0000000037037515?xsec_token=AB
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2"]
 screenshots:
   - "../assets/20260812-xhs-note-pt-series.png"
@@ -28,3 +28,4 @@ screenshots:
 ## Agent 备注
 
 - 同主页还有胸/肩/臂/腿/腹等私教分集笔记，可后续逐条细扫。
+- 已合成：`content/technique/private-coach.md`

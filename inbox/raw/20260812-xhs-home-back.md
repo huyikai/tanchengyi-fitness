@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/explore/69b9fdf9000000001a027787?xsec_token=AB
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2"]
 screenshots:
   - "../assets/20260812-xhs-note-home-back.png"
@@ -27,3 +27,4 @@ screenshots:
 ## Agent 备注
 
 - 从主页点入取得带 `xsec_token` 的 explore URL。
+- 已合成：`content/plans/home-plan.md`

@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7655982129109198321"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2"]
 screenshots:
   - "../assets/20260812-douyin-pt-leg.png"
@@ -25,4 +25,5 @@ screenshots:
 
 ## Agent 备注
 
-- 
+-
+- 已合成：`content/technique/private-coach.md`

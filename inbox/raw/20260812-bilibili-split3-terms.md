@@ -1,4 +1,4 @@
-﻿---
+---
 id: "20260812-bilibili-split3-terms"
 platform: "bilibili"
 title: "凯圣王-谭成义三分化③——名词释义"
@@ -27,3 +27,4 @@ screenshots:
 
 - 登录后可打开。未摘录名词表全文。
 - 已合成：`content/plans/split3.md`
+- 已合成：`content/plans/training-variables.md`

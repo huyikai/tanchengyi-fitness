@@ -19,8 +19,8 @@ updated_at: "2026-08-13"
 - **定位（据标题/标签，未回看动作表）**：面向新手与普通爱好者、可长期沿用；标题强调形体刻画、肌肉量与功能性，而不是赛季专项课表。
 - **B 站本人**：`BV1S8ArzREru`，约 19:15，标签含 健身 / 计划 / 新手。
 - **小红书本人**：同主题置顶向长视频，相关搜索提示「三分化的训练计划」，可与 [三分化](./split3.md) 对照，是否同一套课表须回看后再定，本条不合并。
-- **邻近系列**：四分化另有下肢第 3 期与肩臂+休息日收官；居家另有「居家训练（上）」及胸三头/背二头分集。这些只作入口，尚未写成正式课表。
-- **本条没有**：分化天数、动作名单、组数。需要内容时打开原片。
+- **邻近系列**：四分化见 [four-split.md](./four-split.md)；居家见 [home-plan.md](./home-plan.md)。是否与本条同一套课表须回看后再定，本条不合并。
+- **本条没有**：分化天数、动作名单、组数。需要内容时打开原片。组数/RM 入口见 [training-variables.md](./training-variables.md)。
 
 ## 出处与截图
 
@@ -28,13 +28,8 @@ updated_at: "2026-08-13"
 |------|------|--------|------|
 | B 站长期通用计划 | https://www.bilibili.com/video/BV1S8ArzREru/ | high | `../../inbox/assets/20260812-bilibili-BV1S8ArzREru-plan.png` |
 | 小红书同主题 | https://www.xiaohongshu.com/explore/69a0052b0000000015021ff1 | high | `../../inbox/assets/20260812-xhs-general-plan.png` |
-| 小红书四分化收官 | https://www.xiaohongshu.com/explore/69ac033b0000000015021712 | high | `../../inbox/assets/20260812-xhs-four-split-finale.png` |
-| 小红书居家安排 | https://www.xiaohongshu.com/explore/698d1d08000000001b016df4 | high | `../../inbox/assets/20260812-xhs-note-home-plan.png` |
 
 ## 相关 raw
 
 - `inbox/raw/20260812-bilibili-general-plan-personal.md`
 - `inbox/raw/20260812-xhs-general-plan.md`
-- `inbox/raw/20260812-xhs-four-split-finale.md`
-- `inbox/raw/20260812-xhs-four-split-leg.md`
-- `inbox/raw/20260812-xhs-home-plan.md`

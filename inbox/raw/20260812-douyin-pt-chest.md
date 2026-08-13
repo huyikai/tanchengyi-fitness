@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7650309381392785073"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2", "T3"]
 screenshots:
   - "../assets/20260812-douyin-pt-chest.png"
@@ -27,3 +27,4 @@ screenshots:
 ## Agent 备注
 
 - 系列入口见 `20260812-douyin-private-coach-back` / `20260812-douyin-collections-map`。
+- 已合成：`content/technique/private-coach.md`

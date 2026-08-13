@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1GzEg6wEVb/"
 account: "谭成义"
 official_likelihood: "medium"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2", "T3"]
 screenshots:
   - "../assets/20260812-bilibili-BV1GzEg6wEVb.png"
@@ -30,3 +30,4 @@ screenshots:
 
 - taxonomy-v0：优先归 T2（部位跟练与私教视角），动作细节可交叉 T3。
 - 个人空间主页仍 412，尚未把 official_likelihood 升到 high。
+- 已合成：`content/technique/private-coach.md`

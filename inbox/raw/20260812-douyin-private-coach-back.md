@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7647176615788911793"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2"]
 screenshots:
   - "../assets/20260812-douyin-private-coach-series.png"
@@ -28,3 +28,4 @@ screenshots:
 
 - 分集 raw 已拆：胸 `20260812-douyin-pt-chest`、肩 `…-pt-shoulder`、臂 `…-pt-arm` / `…-pt-arm2`、腿 `…-pt-leg`、腹 `…-pt-abs`。
 - 合集地图：`20260812-douyin-collections-map`。
+- 已合成：`content/technique/private-coach.md`

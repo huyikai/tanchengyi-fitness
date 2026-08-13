@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7648931004442846193"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2", "T3"]
 screenshots:
   - "../assets/20260812-douyin-pt-arm.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 另有「手臂训练（二）」`7658495365934683493`。
+- 已合成：`content/technique/private-coach.md`

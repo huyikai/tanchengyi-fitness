@@ -1,4 +1,4 @@
-﻿---
+---
 id: "20260812-xhs-home-plan"
 platform: "xiaohongshu"
 title: "居家力量训练安排"
@@ -29,3 +29,4 @@ screenshots:
 
 - 居家系列入口；同主页另有胸三头/背二头等分集。
 - 已合成：`content/plans/general-plan.md`
+- 已合成：`content/plans/home-plan.md`

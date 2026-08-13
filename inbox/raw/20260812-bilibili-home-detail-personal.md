@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1mwPMzZEg8/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2", "T6"]
 screenshots:
   - "../assets/20260812-bilibili-BV1mwPMzZEg8.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 标题泛化，未摘录口播动作清单。
+- 已合成：`content/plans/four-split.md`

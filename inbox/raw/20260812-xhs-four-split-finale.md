@@ -1,4 +1,4 @@
-﻿---
+---
 id: "20260812-xhs-four-split-finale"
 platform: "xiaohongshu"
 title: "四分化最后一期（肩和手臂 + 休息日安排）"
@@ -30,3 +30,4 @@ screenshots:
 
 - 降频：间隔约 55–75s 后用主页完整 token 直链进入；截断 token 会 300017。未摘录动作表。
 - 已合成：`content/plans/general-plan.md`
+- 已合成：`content/plans/four-split.md`

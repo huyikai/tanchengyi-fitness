@@ -8,4 +8,4 @@
 | [宏量原则](./macros.md) | draft | 碳水/蛋白/脂肪怎么调；标题已写反馈指标 |
 | [一日饮食记录](./diet-logs.md) | draft | 全天记录、硬减、赛前饮食+练部位；参考片不是处方 |
 
-相关粗扫类目：`research/coarse/taxonomy.md` T5。组数/肌酸线索见 `inbox/raw/20260812-douyin-sets-creatine.md`。
+相关粗扫类目：`research/coarse/taxonomy.md` T5。组数/肌酸入口见 [plans/training-variables.md](../plans/training-variables.md)。

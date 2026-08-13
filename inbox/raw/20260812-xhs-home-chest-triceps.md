@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/explore/69b69a4d0000000021011a00?xsec_token=AB
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2"]
 screenshots:
   - "../assets/20260812-xhs-home-chest-triceps.png"
@@ -28,3 +28,4 @@ screenshots:
 ## Agent 备注
 
 - 小红书软风控冷却后重试成功；从主页点入取得 `xsec_token`。
+- 已合成：`content/plans/home-plan.md`
