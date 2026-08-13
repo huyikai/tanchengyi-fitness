@@ -30,3 +30,4 @@ screenshots:
 
 - 降频策略：主页加载后取带 token 的 profile/note 直链进入；首次媒体黑屏「请刷新试试」，单次 reload 后恢复。未连点。
 - 已合成：`content/plans/general-plan.md`
+- 已合成：`content/plans/four-split.md`（与 B 站① 同主题对照）

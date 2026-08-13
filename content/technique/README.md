@@ -9,5 +9,6 @@
 | [器械合集](./gym-machines.md) | draft | 侧平举、推胸推肩、高位下拉握法、划船反飞鸟、一体机、沉肩 |
 | [罗马尼亚硬拉](./rdl.md) | draft | 本人哑铃 RDL 讲解；透视学③作正误对照 |
 | [透视学①–④](./perspective.md) | draft | 凯圣王合作，不标官方 |
+| [热身 / 拉伸 / 恢复](./recovery.md) | draft | 三分化热身、全身拉伸部位、泡沫轴、真空腹、关节、睡眠 |
 
 相关粗扫类目：`research/coarse/taxonomy.md` T3 / T2。

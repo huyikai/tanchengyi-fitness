@@ -7,7 +7,7 @@ account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
 status: "curated"
-taxonomy_hints: ["T2", "T6"]
+taxonomy_hints: ["T1", "T2"]
 screenshots:
   - "../assets/20260812-bilibili-BV1mwPMzZEg8.png"
 ---
@@ -15,7 +15,7 @@ screenshots:
 ## 要点摘要
 
 - 本人账号长讲解干货片（标题自述细节多）；时长约 30:23；发布约 2026-03-01；播放约 4.9 万。
-- 投稿第 2 页居家/动作相关队列；可与明确标题的居家训练动作片对照。
+- 投稿第 2 页队列；B 站封面大字为「新手通用 四分化跟练（二）」，不是居家分集。
 
 ## 出处与截图
 
@@ -25,5 +25,5 @@ screenshots:
 
 ## Agent 备注
 
-- 标题泛化，未摘录口播动作清单。
+- 标题泛化，期数以封面为准，未摘录口播动作清单。
 - 已合成：`content/plans/four-split.md`

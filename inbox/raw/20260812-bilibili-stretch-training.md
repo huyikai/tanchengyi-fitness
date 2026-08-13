@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1EkV96nEyg/"
 account: "谭成义"
 official_likelihood: "medium"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T4"]
 screenshots:
   - "../assets/20260812-bilibili-BV1EkV96nEyg.png"
@@ -29,3 +29,4 @@ screenshots:
 
 - 与粗扫 anchors T4 首条对应；细扫仅记要点与出处。
 - HTTP 偶发 412 但 DOM 仍可读；以截图+可见元数据为准。
+- 已合成：`content/technique/recovery.md`

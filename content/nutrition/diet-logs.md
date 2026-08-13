@@ -27,7 +27,8 @@ updated_at: "2026-08-13"
 - **赛前 / 混合跟练**：抖音韩国赛倒计时（全天饮食做法 + 练胸）；抖音减脂餐 + 练腿（章节约 8 个：减脂餐教学、练腿计划）。训练细节回链部位跟练，饮食不要从里面抽成大众餐单。
 - **休息日**：B 站 `BV1cJv6BvEqt`（约 23:41，2025-12-28）与小红书 `69508c19` 同主题，饮食 + 训练建议，不是增肌日课表。
 - **备赛第一天**：`BV1E6ZVB1Eta`（约 21:36，2026-02-17），时间线锚点，勿接在三月减脂计划后面当成同一周期作业。
-- **合作讲解（非本人官方）**：凯圣王「三分化-饮食详解」标签含热量/碳水化合物/时间轴，只作对照，不标官方。
+- **合作讲解（非本人官方）**：凯圣王「三分化-饮食详解」标签含热量/碳水化合物/时间轴；「三分化-练后怎么吃详解」标签含练后餐/碳水。只作对照，不标官方。
+- **公开数字碎片（标题/章节/画面，不是完整餐单）**：过年前减脂标题里的盐/蔬菜量级见 [减脂计划](./fatloss-plan.md)。休息日 VLOG 章节写「空腹爬楼 100 层」；开场秤约 83.35 kg——都是当日个案，见 [恢复](../technique/recovery.md)。
 - **本条没有**：餐次克数、热量、蛋白粉用法。需要内容时打开对应长视频。
 
 ## 出处与截图
@@ -44,6 +45,7 @@ updated_at: "2026-08-13"
 | 抖音减脂餐+练腿 | https://www.douyin.com/video/7663876801953801721 | high | `../../inbox/assets/20260812-douyin-meal-leg.png` |
 | B 站休息日饮食和训练 | https://www.bilibili.com/video/BV1cJv6BvEqt/ | high | `../../inbox/assets/20260812-bilibili-BV1cJv6BvEqt.png` |
 | 凯圣王三分化饮食 | https://www.bilibili.com/video/BV1z8zPYjE4j/ | low | `../../inbox/assets/20260812-bilibili-split3-diet.png` |
+| 凯圣王练后怎么吃 | https://www.bilibili.com/video/BV1mnCGYFEUw/ | low | `../../inbox/assets/20260812-bilibili-split3-post-eat.png` |
 
 ## 相关 raw
 
@@ -59,3 +61,4 @@ updated_at: "2026-08-13"
 - `inbox/raw/20260813-xhs-restday-diet-train-1230.md`
 - `inbox/raw/20260812-bilibili-fatloss-prep-day1-personal.md`
 - `inbox/raw/20260812-bilibili-split3-diet.md`
+- `inbox/raw/20260812-bilibili-split3-post-eat.md`

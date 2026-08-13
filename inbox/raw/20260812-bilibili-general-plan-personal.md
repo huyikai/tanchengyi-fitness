@@ -27,3 +27,4 @@ screenshots:
 
 - 未摘录口播全文。
 - 已合成：`content/plans/general-plan.md`
+- 已合成：`content/plans/four-split.md`（B 站封面为大字「四分化跟练系列（一）」）

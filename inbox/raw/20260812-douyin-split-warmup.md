@@ -1,4 +1,4 @@
-﻿---
+---
 id: "20260812-douyin-split-warmup"
 platform: "douyin"
 title: "一次性看完三分化热身整套流程！！"
@@ -30,3 +30,4 @@ screenshots:
 
 - 未整段摘录章节说明全文；动作名单仅作结构索引。
 - 已合成：`content/plans/split3.md`
+- 已合成：`content/technique/recovery.md`

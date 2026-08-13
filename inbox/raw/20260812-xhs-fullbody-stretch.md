@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/explore/6a1ce428000000003700dd83?xsec_token=AB
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T4"]
 screenshots:
   - "../assets/20260812-xhs-note-fullbody-stretch.png"
@@ -28,3 +28,4 @@ screenshots:
 ## Agent 备注
 
 - 从主页点入取得带 `xsec_token` 的 explore URL。
+- 已合成：`content/technique/recovery.md`

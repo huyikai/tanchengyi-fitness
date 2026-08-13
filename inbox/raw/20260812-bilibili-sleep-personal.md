@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1w53J6REfW/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T4", "T5"]
 screenshots:
   - "../assets/20260812-bilibili-BV1w53J6REfW-sleep.png"
@@ -27,3 +27,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录口播全文。主题以空间列表标题为准。
+- 已合成：`content/technique/recovery.md`
