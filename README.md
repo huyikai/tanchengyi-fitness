@@ -23,7 +23,7 @@
 | `docs/collecting.md` | 收集规范（Agent/人共用） |
 | `research/coarse/` | 粗扫：主题地图、账号图、锚点 |
 | `inbox/` | 细扫原料（一条源内容一篇） |
-| `content/` | 正式整理条目（[总览](./content/README.md)；计划与饮食已有草稿，技术仍占位） |
+| `content/` | 正式整理条目（[总览](./content/README.md)；计划、饮食、技术均有草稿） |
 | `templates/` | 复制用模板 |
 
 ## 许可

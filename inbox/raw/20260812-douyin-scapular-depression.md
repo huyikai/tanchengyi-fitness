@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7664787164882481402"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T3", "T4"]
 screenshots:
   - "../assets/20260812-douyin-scapular-depression.png"
@@ -29,3 +29,4 @@ screenshots:
 ## Agent 备注
 
 - 未整段摘录章节口播；仅结构与要点线索。
+- 已合成：`content/technique/gym-machines.md`

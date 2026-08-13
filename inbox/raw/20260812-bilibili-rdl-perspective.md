@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1qF6wBaEWu/"
 account: "凯圣王"
 official_likelihood: "low"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T3"]
 screenshots:
   - "../assets/20260812-bilibili-rdl-perspective.png"
@@ -27,3 +27,4 @@ screenshots:
 ## Agent 备注
 
 - Browse MCP 登录后可打开（此前 412）。未摘录口播；仅元数据与系列索引。
+- 已合成：`content/technique/rdl.md`

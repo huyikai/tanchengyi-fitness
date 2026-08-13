@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7671852814386030521"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "noted"
+status: "curated"
 taxonomy_hints: ["T3"]
 screenshots: []
 ---
@@ -25,3 +25,4 @@ screenshots: []
 ## Agent 备注
 
 - status=noted：有稳定 URL，尚未单页截图。
+- 已合成：`content/technique/rdl.md`

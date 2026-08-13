@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1GaWXz1ExX/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2", "T3"]
 screenshots:
   - "../assets/20260812-bilibili-BV1GaWXz1ExX.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录进阶负荷表。
+- 已合成：`content/technique/fenjue-back.md`

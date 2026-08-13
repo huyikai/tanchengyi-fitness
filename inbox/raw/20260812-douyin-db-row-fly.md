@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7670171990876103153"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T3"]
 screenshots:
   - "../assets/20260812-douyin-db-row-fly.png"
@@ -28,3 +28,4 @@ screenshots:
 ## Agent 备注
 
 - 未整段摘录章节说明；仅结构与要点线索。
+- 已合成：`content/technique/gym-machines.md`
