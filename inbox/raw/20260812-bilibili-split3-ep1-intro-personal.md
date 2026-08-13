@@ -1,4 +1,4 @@
----
+﻿---
 id: "20260812-bilibili-split3-ep1-intro-personal"
 platform: "bilibili"
 title: "第一期来啦！！"
@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1JjSSBbEsX/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T1"]
 screenshots:
   - "../assets/20260812-bilibili-BV1JjSSBbEsX-ep1-intro.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录口播全文。
+- 已合成：`content/plans/split3.md`

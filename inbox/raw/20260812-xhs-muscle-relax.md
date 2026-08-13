@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/explore/69ccc730000000001a032a29?xsec_token=AB
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T4"]
 screenshots:
   - "../assets/20260812-xhs-muscle-relax.png"
@@ -28,3 +28,4 @@ screenshots:
 ## Agent 备注
 
 - 降频 token 直链进入。未摘录口播步骤。
+- 已合成：`content/technique/recovery.md`

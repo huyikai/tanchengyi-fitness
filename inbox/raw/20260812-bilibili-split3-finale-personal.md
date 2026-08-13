@@ -1,4 +1,4 @@
----
+﻿---
 id: "20260812-bilibili-split3-finale-personal"
 platform: "bilibili"
 title: "三分化最后一期，谢谢大家的喜欢和支持，希望能对大家有所帮助！！"
@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1w9kKBfEsi/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2", "T3"]
 screenshots:
   - "../assets/20260812-bilibili-BV1w9kKBfEsi.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录具体动作清单口播。
+- 已合成：`content/plans/split3.md`

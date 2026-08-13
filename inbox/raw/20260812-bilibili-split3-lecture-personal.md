@@ -1,4 +1,4 @@
----
+﻿---
 id: "20260812-bilibili-split3-lecture-personal"
 platform: "bilibili"
 title: "三分化讲解！！"
@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV15iQeB7Epq/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T1"]
 screenshots:
   - "../assets/20260812-bilibili-BV15iQeB7Epq-split3.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录口播全文。
+- 已合成：`content/plans/split3.md`

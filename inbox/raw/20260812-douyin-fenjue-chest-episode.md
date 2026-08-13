@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7575186300258749798"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T1", "T2", "T4"]
 screenshots:
   - "../assets/20260812-douyin-fenjue-episode.png"
@@ -29,3 +29,4 @@ screenshots:
 ## Agent 备注
 
 - 未整段摘录「章节要点」口播；仅记结构与动作名单供后续 curated。
+- 已合成：`content/technique/fenjue-back.md`

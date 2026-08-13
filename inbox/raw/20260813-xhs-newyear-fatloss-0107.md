@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/explore/695e4d59000000002202c73a?xsec_token=AB
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-13"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T5"]
 screenshots:
   - "../assets/20260813-xhs-note-newyear-fatloss-0107.png"
@@ -29,3 +29,4 @@ screenshots:
 
 - 从本人主页复制带完整 `xsec_token` 的 profile 直链后 navigate；最终 URL 为 `/explore/<id>?xsec_token=...`。
 - 至此主页已加载 61 条中的已知缺口 ID 已清完；更早网格需再慢滚才能发现新 ID。
+- 已合成：`content/nutrition/fatloss-plan.md`

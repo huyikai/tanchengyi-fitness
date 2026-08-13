@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7645715297237252785"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T4"]
 screenshots:
   - "../assets/20260812-douyin-full-stretch.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录具体口播步骤；仅部位章节索引。商业服装标签仅作线索。
+- 已合成：`content/technique/recovery.md`

@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/explore/69a41beb000000001b01dcc8?xsec_token=AB
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-13"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2", "T3"]
 screenshots:
   - "../assets/20260813-xhs-note-back-detail-0314.png"
@@ -28,3 +28,5 @@ screenshots:
 ## Agent 备注
 
 - 从本人主页复制带完整 `xsec_token` 的 profile 直链后 navigate；最终 URL 为 `/explore/<id>?xsec_token=...`。
+- B 站对照 `BV1mwPMzZEg8` 封面为大字「四分化跟练（二）」。
+- 已合成：`content/plans/four-split.md`

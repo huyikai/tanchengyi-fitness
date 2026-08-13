@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/explore/6a3130fa000000001603d990?xsec_token=AB
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2", "T4"]
 screenshots:
   - "../assets/20260812-xhs-note-pt-shoulder.png"
@@ -28,3 +28,4 @@ screenshots:
 ## Agent 备注
 
 - 从主页点入取得带 `xsec_token` 的 explore URL。
+- 已合成：`content/technique/private-coach.md`

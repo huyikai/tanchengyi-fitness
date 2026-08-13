@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7660136955972019877"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T5", "T2"]
 screenshots:
   - "../assets/20260812-douyin-diet-plan-chest.png"
@@ -27,3 +27,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录具体热量/餐单数字；仅记主题与结构。赛前个案勿当通用处方。
+- 已合成：`content/nutrition/diet-logs.md`

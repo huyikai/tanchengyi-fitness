@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/explore/69ac033b0000000015021712?xsec_token=AB
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T1", "T2", "T4"]
 screenshots:
   - "../assets/20260812-xhs-four-split-finale.png"
@@ -29,3 +29,5 @@ screenshots:
 ## Agent 备注
 
 - 降频：间隔约 55–75s 后用主页完整 token 直链进入；截断 token 会 300017。未摘录动作表。
+- 已合成：`content/plans/general-plan.md`
+- 已合成：`content/plans/four-split.md`

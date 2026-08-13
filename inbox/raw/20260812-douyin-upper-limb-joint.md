@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7639553118070415077"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T4", "T3"]
 screenshots:
   - "../assets/20260812-douyin-upper-limb-joint.png"
@@ -28,3 +28,4 @@ screenshots:
 ## Agent 备注
 
 - 未整段摘录章节说明；非医疗诊断材料，仅作训练线索。
+- 已合成：`content/technique/recovery.md`

@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/explore/69bcf2ed00000000210129e5?xsec_token=AB
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T5"]
 screenshots:
   - "../assets/20260812-xhs-note-fatloss.png"
@@ -29,3 +29,4 @@ screenshots:
 ## Agent 备注
 
 - 从主页点入后 URL 带 `xsec_token`/`xsec_source=pc_user`；无 token 的 explore 直链仍可能风控。
+- 已合成：`content/nutrition/fatloss-plan.md`

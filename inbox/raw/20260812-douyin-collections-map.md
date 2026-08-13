@@ -1,4 +1,4 @@
----
+﻿---
 id: "20260812-douyin-collections-map"
 platform: "douyin"
 title: "谭成义抖音合集地图（5 个）"
@@ -6,7 +6,7 @@ url: "https://www.douyin.com/user/MS4wLjABAAAArfpAmbNNdODGpzfznrZAXrt2JgCGFWxE25
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T1", "T2", "T3", "T4", "T5"]
 screenshots:
   - "../assets/20260812-douyin-collections-rescan.png"
@@ -31,3 +31,4 @@ screenshots:
 ## Agent 备注
 
 - 拼写：合集标题「焚决」与单集标题「焚诀」并存，引用时保留原文。
+- 已合成：`content/README.md`

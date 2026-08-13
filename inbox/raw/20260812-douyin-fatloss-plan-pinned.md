@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7618962209967965617"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T5"]
 screenshots:
   - "../assets/20260812-douyin-fatloss-plan.png"
@@ -28,3 +28,4 @@ screenshots:
 ## Agent 备注
 
 - 同账号置顶背部训练已单开：`inbox/raw/20260812-douyin-fenjue-back-episode.md`。
+- 已合成：`content/nutrition/fatloss-plan.md`

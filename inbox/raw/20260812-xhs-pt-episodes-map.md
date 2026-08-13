@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/user/profile/5f9281d100000000010041df"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2"]
 screenshots:
   - "../../research/coarse/assets/20260812-xhs-profile-notes-grid.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 本条为分集索引；细节与截图见各分集 raw。
+- 已合成：`content/technique/private-coach.md`

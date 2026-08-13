@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1czHuzPExA/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T4", "T6"]
 screenshots:
   - "../assets/20260812-bilibili-BV1czHuzPExA.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录呼吸节奏/神经机制口播细节。
+- 已合成：`content/technique/recovery.md`

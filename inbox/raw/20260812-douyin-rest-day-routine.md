@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7672754038597160305"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T4", "T5", "T2"]
 screenshots:
   - "../assets/20260812-douyin-rest-day.png"
@@ -28,3 +28,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录口播；章节标题仅作结构索引。补剂段落属商业标签线索，后续 curated 需区分教学与赞助。
+- 已合成：`content/technique/recovery.md`

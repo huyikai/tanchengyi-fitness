@@ -1,4 +1,4 @@
----
+﻿---
 id: "20260812-bilibili-split3-chest"
 platform: "bilibili"
 title: "凯圣王-谭成义三分化②——跟练胸肩三头"
@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1CSoKBaEgK/"
 account: "凯圣王"
 official_likelihood: "low"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2", "T4"]
 screenshots:
   - "../assets/20260812-bilibili-split3-chest.png"
@@ -27,3 +27,4 @@ screenshots:
 ## Agent 备注
 
 - 登录后可打开。未摘录动作清单口播；合集目录已核验。
+- 已合成：`content/plans/split3.md`

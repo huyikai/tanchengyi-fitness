@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/explore/68fda8970000000003023684?xsec_token=AB
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-13"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2", "T3"]
 screenshots:
   - "../assets/20260813-xhs-note-fenjue-leg-ext-1026.png"
@@ -28,3 +28,4 @@ screenshots:
 
 - 从主页中间网格取得带 token 直链；最终 URL 为 `/explore/<id>?xsec_token=...`。
 - `6932b210`（12-05）与本条（10-26）之间可能还有 11 月笔记未加载。
+- 已合成：`content/technique/fenjue-back.md`

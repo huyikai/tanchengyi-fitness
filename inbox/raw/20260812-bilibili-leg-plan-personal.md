@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV13nPFzCENK/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2"]
 screenshots:
   - "../assets/20260812-bilibili-BV13nPFzCENK-leg.png"
@@ -15,7 +15,7 @@ screenshots:
 ## 要点摘要
 
 - 本人账号下肢整体性/跟练计划；时长约 15:37；发布约 2026-03-03；播放约 3.7 万。
-- 可与小红书四分化下肢、居家下肢对照。
+- B 站封面大字为「新手通用 四分化跟练（三）」；可与小红书四分化第三期下肢对照。
 
 ## 出处与截图
 
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录口播全文。
+- 已合成：`content/plans/four-split.md`

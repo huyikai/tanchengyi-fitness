@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1mnCGYFEUw/"
 account: "凯圣王"
 official_likelihood: "low"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T5"]
 screenshots:
   - "../assets/20260812-bilibili-split3-post-eat.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录餐单口播。
+- 已合成：`content/nutrition/diet-logs.md`

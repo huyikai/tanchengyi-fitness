@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1xtzCBhEYN/"
 account: "凯圣王"
 official_likelihood: "low"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T3"]
 screenshots:
   - "../assets/20260812-bilibili-ohp-perspective.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 登录后可打开。未摘录口播。
+- 已合成：`content/technique/perspective.md`

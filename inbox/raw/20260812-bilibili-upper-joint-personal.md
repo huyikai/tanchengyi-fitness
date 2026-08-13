@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1ND5S6pEgx/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T4"]
 screenshots:
   - "../assets/20260812-bilibili-BV1ND5S6pEgx-upper-joint.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录动作清单或医疗建议原文。
+- 已合成：`content/technique/recovery.md`

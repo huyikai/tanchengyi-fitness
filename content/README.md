@@ -1,0 +1,46 @@
+# 正式条目
+
+本目录是 raw 原料之上的整理稿，便于查阅与跟练导航。仍**不是**口播全文或可直接照抄的组数表。
+
+当前阶段：计划（含四分化①–④/居家/组数入口）、饮食、技术（含私教与恢复）结构草稿已有；组数/餐单数字仍须回看原片。
+
+| 类目 | 路径 | 状态 |
+|------|------|------|
+| 训练计划 | [plans/](./plans/) | 三分化、四分化、居家、通用计划、组数/RM（draft） |
+| 动作技术 | [technique/](./technique/) | 私教、焚决背、器械、RDL、透视学、恢复（draft） |
+| 饮食与补剂 | [nutrition/](./nutrition/) | 减脂计划、宏量、一日记录（draft） |
+
+## 本人 / 官方向账号
+
+| 平台 | 账号 | 主页 | 备注 |
+|------|------|------|------|
+| 抖音 | 谭成义（`nishitiantan`） | https://www.douyin.com/user/MS4wLjABAAAArfpAmbNNdODGpzfznrZAXrt2JgCGFWxE25eFkQDGXOY | 合集最完整，优先跟练 |
+| 小红书 | 谭成义（`1014738441`） | https://www.xiaohongshu.com/user/profile/5f9281d100000000010041df | 与抖音/B 站同主题对照；无 token 不要直开笔记 |
+| B 站 | 谭成义 | https://space.bilibili.com/521903482/ | 本人投稿；粉丝约 16.3 万（2026-08-13 页显） |
+
+合作、勿标官方：B 站 [凯圣王](https://space.bilibili.com/2100737396/)（三分化合集、透视学）。微信公众号未找到本人入口。
+
+## 抖音合集（跟练主线）
+
+来源：`inbox/raw/20260812-douyin-collections-map.md`（约 2026-08-12 核验）。
+
+| 合集 | 约集数 | 对应整理方向 |
+|------|--------|----------------|
+| 焚决之跟练系列（亦作「焚诀」） | 18 | [背部五动作](./technique/fenjue-back.md)；胸/其余分集见该条 |
+| 私教跟练系列 | 7 | [私教跟练](./technique/private-coach.md) |
+| 健身房器械和动作详解 | 6 | [器械合集](./technique/gym-machines.md) |
+| 训练，营养，体态和恢复教学 | 30 | [热身/拉伸/恢复](./technique/recovery.md) |
+| 补剂系列 | 5 | [组数/组间/肌酸](./plans/training-variables.md) |
+
+## 训练计划系列怎么选
+
+| 系列 | 适合谁（据公开标题/定位） | 入口 |
+|------|---------------------------|------|
+| 长期通用计划 | 新手与普通爱好者长期沿用 | [general-plan.md](./plans/general-plan.md) |
+| 三分化 | 蹲推拉 / 胸肩三头、背二头、腿 | [split3.md](./plans/split3.md) |
+| 四分化 | 新手通用跟练 | [four-split.md](./plans/four-split.md) |
+| 居家 | 哑铃向：胸三头 / 背二头 / 下肢 / 安排 | [home-plan.md](./plans/home-plan.md) |
+| 焚决跟练 | 按部位长视频跟练 | [technique/fenjue-back.md](./technique/fenjue-back.md) |
+| 私教跟练 | 保姆级分部位长课 | [technique/private-coach.md](./technique/private-coach.md) |
+
+细节与链接以各正式条目和 `inbox/raw/` 为准。截图在条目内，不单开「出处」类目。

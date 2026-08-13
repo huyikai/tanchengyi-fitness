@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7638569547629063665"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T4", "T1"]
 screenshots:
   - "../assets/20260812-douyin-split-warmup.png"
@@ -29,3 +29,5 @@ screenshots:
 ## Agent 备注
 
 - 未整段摘录章节说明全文；动作名单仅作结构索引。
+- 已合成：`content/plans/split3.md`
+- 已合成：`content/technique/recovery.md`

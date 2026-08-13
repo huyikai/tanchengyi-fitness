@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/explore/6a55b4a4000000001c026c92?xsec_token=AB
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T3"]
 screenshots:
   - "../assets/20260812-xhs-note-equipment.png"
@@ -28,3 +28,4 @@ screenshots:
 ## Agent 备注
 
 - 首次打开时媒体区曾加载失败，刷新后截到正常画面。
+- 已合成：`content/technique/gym-machines.md`

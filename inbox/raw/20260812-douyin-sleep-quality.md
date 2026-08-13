@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7665996589064850289"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T4", "T5"]
 screenshots:
   - "../assets/20260812-douyin-sleep-quality.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未整段摘录章节说明；非医疗睡眠诊疗材料。
+- 已合成：`content/technique/recovery.md`

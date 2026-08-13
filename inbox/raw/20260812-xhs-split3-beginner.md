@@ -1,4 +1,4 @@
----
+﻿---
 id: "20260812-xhs-split3-beginner"
 platform: "xiaohongshu"
 title: "新手和爱好者增肌三分化跟练系列"
@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/explore/6963996a000000002102a3c6?xsec_token=AB
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T1", "T2"]
 screenshots:
   - "../assets/20260812-xhs-note-split3-beginner.png"
@@ -28,3 +28,4 @@ screenshots:
 ## Agent 备注
 
 - 面向新手的三分化入口，可与凯圣王合作系列区分优先级。
+- 已合成：`content/plans/split3.md`
