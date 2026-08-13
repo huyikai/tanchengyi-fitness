@@ -1,4 +1,4 @@
----
+﻿---
 id: "20260812-xhs-four-split-leg"
 platform: "xiaohongshu"
 title: "四分化跟练第三期（下肢）"
@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/explore/69a6bf36000000001d010fcf?xsec_token=AB
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T1", "T2"]
 screenshots:
   - "../assets/20260812-xhs-four-split-leg.png"
@@ -28,3 +28,4 @@ screenshots:
 ## Agent 备注
 
 - 本轮第 3 条（达单轮上限）；降频 token 直链进入成功。未摘录动作表。
+- 已合成：`content/plans/general-plan.md`

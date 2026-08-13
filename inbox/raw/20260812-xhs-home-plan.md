@@ -1,4 +1,4 @@
----
+﻿---
 id: "20260812-xhs-home-plan"
 platform: "xiaohongshu"
 title: "居家力量训练安排"
@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/explore/698d1d08000000001b016df4?xsec_token=AB
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T1", "T2"]
 screenshots:
   - "../assets/20260812-xhs-note-home-plan.png"
@@ -28,3 +28,4 @@ screenshots:
 ## Agent 备注
 
 - 居家系列入口；同主页另有胸三头/背二头等分集。
+- 已合成：`content/plans/general-plan.md`

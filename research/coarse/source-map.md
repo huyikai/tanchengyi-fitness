@@ -1,13 +1,13 @@
 ---
 status: draft
-updated_at: "2026-08-12"
+updated_at: "2026-08-13"
 ---
 
 # 账号与栏目图（粗扫 B）
 
 | 平台 | 账号名 | 主页 URL | official_likelihood | 主要栏目/系列 | 备注 |
 |------|--------|----------|---------------------|---------------|------|
-| Bilibili | 谭成义 | https://space.bilibili.com/521903482/ | medium | 私教系列、动作教学、拉伸/恢复、部位训练 | 本机 Chrome 打开视频页可确认 UP 主为「谭成义」（如 `BV1GzEg6wEVb`、`BV1EkV96nEyg`）。个人空间 HTML 仍返回 412/空白页，未能截到主页；截图见 `assets/20260812-bilibili-BV1GzEg6wEVb.png` 等。 |
+| Bilibili | 谭成义 | https://space.bilibili.com/521903482/ | high | 私教系列、动作教学、拉伸/恢复、三分化跟练 | 登录后空间与视频页均可核验 UP 主为「谭成义」；粉丝约 16.3 万（2026-08-13）。细扫见 `inbox/raw/20260812-bilibili-*-personal.md`。 |
 | Bilibili | 凯圣王 | https://space.bilibili.com/2100737396/ | low | 三分化、凯圣王-谭成义三分化、三分化饮食、第三视角跟练、口袋教练 | 本机已打开主页并截图 `assets/20260812-bilibili-space-2100737396-kaisw.png`（有登录浮层，主页内容可见）。非谭成义本人账号；合作来源，不标本人官方。 |
 | Bilibili | 薯门o | https://space.bilibili.com/3691000560093568/ | low | 谭成义直播训练片段、背部热身 | `BV1tcraBTEqg` owner 为薯门o，简介称“博主@谭成义 分享谭老师的直播训练视频和讲解”；疑似搬运/剪辑，只作低优先级线索。 |
 | 抖音 | 谭成义 | https://www.douyin.com/user/MS4wLjABAAAArfpAmbNNdODGpzfznrZAXrt2JgCGFWxE25eFkQDGXOY | high | 合集：器械动作详解(6)、私教跟练(7)、补剂(5)、焚决跟练(18)、训练营养体态恢复(30) | 抖音号 **nishitiantan**。合集截图 `assets/20260812-douyin-collections-rescan.png`；细扫见 `inbox/raw/20260812-douyin-collections-map.md`。 |

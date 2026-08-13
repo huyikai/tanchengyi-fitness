@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7642300123128891067"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T5", "T2", "T6"]
 screenshots:
   - "../assets/20260812-douyin-korea-diet-chest.png"
@@ -27,3 +27,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录餐单克数/热量；仅结构索引。赞助标签（谷氨酰胺）仅作商业线索。
+- 已合成：`content/nutrition/diet-logs.md`

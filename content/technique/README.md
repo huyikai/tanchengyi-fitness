@@ -1,3 +1,3 @@
 # 动作技术（占位）
 
-正式条目将在细扫后写入此目录。类目以 `research/coarse/taxonomy.md` 为准，可调整，勿提前深挖子目录。
+正式条目尚未合成。器械/透视学/RDL 等原料在 `inbox/raw/`，入口见 [content 总览](../README.md)。

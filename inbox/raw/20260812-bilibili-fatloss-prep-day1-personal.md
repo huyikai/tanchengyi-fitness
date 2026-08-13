@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1E6ZVB1Eta/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T5", "T6"]
 screenshots:
   - "../assets/20260812-bilibili-BV1E6ZVB1Eta.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录当日热量/训练量口播。
+- 已合成：`content/nutrition/diet-logs.md`

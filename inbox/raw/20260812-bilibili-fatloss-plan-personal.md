@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1g2A7zdENX/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T5"]
 screenshots:
   - "../assets/20260812-bilibili-BV1g2A7zdENX-fatloss.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录热量/宏量口播数字。
+- 已合成：`content/nutrition/fatloss-plan.md`

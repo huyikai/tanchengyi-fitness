@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7663876801953801721"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T5", "T2"]
 screenshots:
   - "../assets/20260812-douyin-meal-leg.png"
@@ -27,3 +27,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录餐单与组次数；仅结构索引。
+- 已合成：`content/nutrition/diet-logs.md`

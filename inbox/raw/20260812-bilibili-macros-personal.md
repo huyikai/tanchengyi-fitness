@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1fempB5EV5/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T5"]
 screenshots:
   - "../assets/20260812-bilibili-BV1fempB5EV5.png"
@@ -27,3 +27,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录具体克数/热量口播。
+- 已合成：`content/nutrition/macros.md`

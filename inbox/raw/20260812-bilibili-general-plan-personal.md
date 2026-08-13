@@ -1,4 +1,4 @@
----
+﻿---
 id: "20260812-bilibili-general-plan-personal"
 platform: "bilibili"
 title: "新手爱好者可以长期使用的一套训练计划"
@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1S8ArzREru/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T1"]
 screenshots:
   - "../assets/20260812-bilibili-BV1S8ArzREru-plan.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录口播全文。
+- 已合成：`content/plans/general-plan.md`

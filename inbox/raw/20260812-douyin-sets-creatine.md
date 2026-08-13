@@ -6,7 +6,7 @@ url: "https://www.douyin.com/video/7640030849136819377"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T1", "T5"]
 screenshots:
   - "../assets/20260812-douyin-sets-creatine.png"
@@ -28,3 +28,4 @@ screenshots:
 ## Agent 备注
 
 - 未整段搬运章节说明；赞助/产品句仅作线索标注。标题中的组数/组间与可见短章节不完全一一对应，后续 curated 需回看核实。
+- 已合成：`content/nutrition/macros.md`

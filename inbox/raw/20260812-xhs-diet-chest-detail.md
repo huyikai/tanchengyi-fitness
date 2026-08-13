@@ -6,7 +6,7 @@ url: "https://www.xiaohongshu.com/explore/6a0fe990000000003701ddf8?xsec_token=AB
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T5", "T2"]
 screenshots:
   - "../assets/20260812-xhs-diet-chest-detail.png"
@@ -28,3 +28,4 @@ screenshots:
 ## Agent 备注
 
 - 从主页点入取得 token。未摘录餐单/口播；评论区粉丝复刻不作正文来源。
+- 已合成：`content/nutrition/diet-logs.md`
