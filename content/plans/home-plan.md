@@ -34,6 +34,7 @@ updated_at: "2026-08-14"
 | 03-18 | 居家哑铃：背 + 二头 | B 站 `BV1oEwZzVEP4` 约 19:01；小红书 `69b9fdf9` 约 19:00；抖音焚决合集第 16 集约 19:00 |
 
 - **结构线索**：胸三头、背二头是成对分集；下肢单独一期；「（上）」安排篇偏肩/总览。第 17 集标题写「最后一期」肩臂超级组，不要和 [四分化④](./four-split.md) 健身房肩臂并表。合集序号是第 17，抖音发布约 03-16，早于第 16 集背二头（03-18）；不要按「最后」去对发布日序。
+- **第 16 集当天画面（B 站 `BV1oEwZzVEP4`）**：约 03:00 垫上跪撑，字幕「然后第二个动作是动态的」。约 10:00 一手扶椅、单手哑铃划船类，字幕「记住了在这个位置上上下」。约 14:00 俯身双手哑铃。约 16:40 站姿哑铃弯举类，字幕「在前面好」。不要和健身房拉日并表。
 - **第 17 集当天画面（抖音）**：约 01:30 俯卧垫上，字幕「不对你的下斜方肌啊」。约 02:30 坐椅前倾持哑铃，字幕「手往你的两侧去飞」。约 05:30 坐椅过头推哑铃，字幕「略略慢下」。约 07:00 站姿双手持一只哑铃身前抬高，字幕「然后抬高」。约 09:30 站姿持哑铃，字幕「眼睛就看着那一侧」。约 10:30 站姿双手持一只哑铃过头臂屈伸类（该帧未写出动作名）。标题「超级组」未在核验帧写成配对课表。
 - **本条没有**：哑铃型号、组数、无器械替代表。需要跟练打开对应长视频。健身房计划见 [三分化](./split3.md) / [四分化](./four-split.md)。
 
@@ -47,6 +48,10 @@ updated_at: "2026-08-14"
 | B 站居家下肢 | https://www.bilibili.com/video/BV1LbcWzyE64/ | high | `../../inbox/assets/20260812-bilibili-BV1LbcWzyE64-home-leg.png` |
 | 小红书居家第一期胸三头 | https://www.xiaohongshu.com/explore/69b69a4d0000000021011a00 | high | `../../inbox/assets/20260812-xhs-home-chest-triceps.png` |
 | B 站居家背二头 | https://www.bilibili.com/video/BV1oEwZzVEP4/ | high | `../../inbox/assets/20260812-bilibili-BV1oEwZzVEP4-home-back.png` |
+| 居家背 跪撑动态 | https://www.bilibili.com/video/BV1oEwZzVEP4/ | high | `../../inbox/assets/20260814-home-back-t180.png` |
+| 居家背 扶椅划船 | https://www.bilibili.com/video/BV1oEwZzVEP4/ | high | `../../inbox/assets/20260814-home-back-t600.png` |
+| 居家背 俯身哑铃 | https://www.bilibili.com/video/BV1oEwZzVEP4/ | high | `../../inbox/assets/20260814-home-back-t840.png` |
+| 居家背 站姿弯举 | https://www.bilibili.com/video/BV1oEwZzVEP4/ | high | `../../inbox/assets/20260814-home-back-t1000.png` |
 | 小红书居家背二头 | https://www.xiaohongshu.com/explore/69b9fdf9000000001a027787 | high | `../../inbox/assets/20260812-xhs-note-home-back.png` |
 | 抖音居家肩臂超级组（合集第 17 集） | https://www.douyin.com/video/7617450016814465785 | high | `../../inbox/assets/20260814-home-sa-t150.png` |
 | 居家肩臂 下斜方讲解 | https://www.douyin.com/video/7617450016814465785 | high | `../../inbox/assets/20260814-home-sa-t90.png` |
