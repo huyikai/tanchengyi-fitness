@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1aC2ZBwEHC/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2"]
 screenshots:
   - "../assets/20260812-bilibili-BV1aC2ZBwEHC-shoulder.png"

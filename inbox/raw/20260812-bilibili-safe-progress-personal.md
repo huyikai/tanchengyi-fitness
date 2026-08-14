@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1W1BFBKEdR/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T6", "T4"]
 screenshots:
   - "../assets/20260812-bilibili-BV1W1BFBKEdR.png"
@@ -14,8 +14,8 @@ screenshots:
 
 ## 要点摘要
 
-- 本人账号强调安全高效进步、走远而非过快；时长约 10:35；发布约 2025-12-19；播放约 8.8 万。
-- 可与训练质量、形体质量、关节不适片对照。
+- 本人账号；时长约 10:35；发布约 2025-12-19；播放约 8.8 万。投稿标题不写腹/焚决。
+- 与小红书同日「焚决跟练之腹肌核心训练」对照；画面含山羊挺身机、悬垂收腿、跪姿绳索。
 
 ## 出处与截图
 
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录具体训练处方口播。
+- 已合成：`content/technique/fenjue.md`

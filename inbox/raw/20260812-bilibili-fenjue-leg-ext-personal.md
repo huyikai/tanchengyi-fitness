@@ -25,5 +25,5 @@ screenshots:
 
 ## Agent 备注
 
-- 未摘录三种模式口播细则。
+- 约 04:00 起可见坐姿腿屈伸器械；三种模式名未在核验帧写出。
 - 已合成：`content/technique/fenjue.md`
