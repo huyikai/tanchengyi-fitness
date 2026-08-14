@@ -26,7 +26,7 @@
 
 | 合集 | 约集数 | 对应整理方向 |
 |------|--------|----------------|
-| 焚决之跟练系列（亦作「焚诀」） | 18 | [系列索引](./technique/fenjue.md)；背部五动作见 [fenjue-back.md](./technique/fenjue-back.md) |
+| 焚决之跟练系列（亦作「焚诀」） | 18 | [系列索引](./technique/fenjue.md)（18 集目录已列；8–17 实为三分化/四分化/居家） |
 | 私教跟练系列 | 7 | [私教跟练](./technique/private-coach.md) |
 | 健身房器械和动作详解 | 6 | [器械合集](./technique/gym-machines.md) |
 | 训练，营养，体态和恢复教学 | 30 | [热身/拉伸/恢复](./technique/recovery.md) |

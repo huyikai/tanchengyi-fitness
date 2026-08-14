@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV14JBHBYEMp/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2"]
 screenshots:
   - "../assets/20260812-bilibili-BV14JBHBYEMp-arm.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录口播全文。
+- 已合成：`content/technique/fenjue.md`（抖音合集第 5 集）

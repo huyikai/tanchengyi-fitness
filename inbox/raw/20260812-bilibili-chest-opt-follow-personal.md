@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1fa6CBDEEu/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2"]
 screenshots:
   - "../assets/20260812-bilibili-BV1fa6CBDEEu.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录口播组数/负荷数字。
+- 已合成：`content/technique/fenjue.md`（抖音合集第 11 集）
