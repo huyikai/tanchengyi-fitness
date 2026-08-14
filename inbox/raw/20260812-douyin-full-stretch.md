@@ -26,4 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录具体口播步骤；仅部位章节索引。商业服装标签仅作线索。
-- 已合成：`content/technique/recovery.md`
+- 已合成：`content/technique/recovery.md`（系列索引 `content/technique/fenjue.md`）

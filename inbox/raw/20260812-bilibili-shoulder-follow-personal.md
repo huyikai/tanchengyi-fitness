@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录口播全文。
+- 已合成：`content/technique/fenjue.md`（与小红书同日「焚决跟练系列之肩部训练」对照）

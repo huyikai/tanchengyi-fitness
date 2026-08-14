@@ -28,4 +28,4 @@ screenshots:
 
 - 从主页中间网格取得带 token 直链；最终 URL 为 `/explore/<id>?xsec_token=...`。
 - `6932b210`（12-05）与本条（10-26）之间可能还有 11 月笔记未加载。
-- 已合成：`content/technique/fenjue-back.md`
+- 已合成：`content/technique/fenjue.md`

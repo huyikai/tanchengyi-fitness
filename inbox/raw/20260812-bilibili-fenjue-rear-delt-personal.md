@@ -26,4 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录动作清单口播。
-- 已合成：`content/technique/fenjue-back.md`
+- 已合成：`content/technique/fenjue.md`
