@@ -30,9 +30,9 @@ updated_at: "2026-08-14"
 
 | 合集序 | 约时长 | 对照 | 画面线索（非口播课表） |
 |--------|--------|------|------------------------|
-| 8 | 20:22 | B 站「三分化系列跟练」`BV1E76ZBtEZ5`（2026-01-11） | 约 06:00–09:00 坐姿推胸器械，字幕「离心略慢然后向心略快」。约 12:00 坐姿臂屈伸/双杠类器械，字幕「然后蹬上去」。约 18:00 坐凳对绳索拉，字幕「这个动作为什么这样去做」。 |
-| 9 | 24:16 | B 站「三分化最后一期」`BV1w9kKBfEsi`（2026-01-16）；合集标签肩/腿 | 约 04:00 站姿哑铃过头推。约 08:00 字幕点名「坐姿推肩」。约 12:00 俯身持曲杆，字幕谈三角肌。约 21:20 前后分腿蹲类（该帧未写出动作名）。 |
-| 10 | 26:12 | B 站「三分化之拉日」`BV1hnrWBHEu7`（2026-01-14） | 约 09:00 站姿拉绳索，字幕「斜前方坐一坐」。约 14:00 坐姿拉，字幕「斜下方收肘」。约 19:00 坐姿划船类，叠字「向远端发力」。约 23:20 坐凳持杠弯举类，字幕「选择一个比较重量的啊」（不是负荷处方）。 |
+| 8 | 20:22 | B 站「三分化系列跟练」`BV1E76ZBtEZ5`（2026-01-11）；小红书「新手和爱好者增肌三分化跟练系列」`6963996a` 约 20:21 | 约 06:00–09:00 坐姿推胸器械，字幕「离心略慢然后向心略快」。约 12:00 坐姿臂屈伸/双杠类器械，字幕「然后蹬上去」。约 18:00 坐凳对绳索拉，字幕「这个动作为什么这样去做」。 |
+| 9 | 24:16 | B 站「三分化最后一期」`BV1w9kKBfEsi`（2026-01-16）；小红书同日「三分化最后一期」`69699d57`；合集标签肩/腿。与较晚收官笔记不是同一条 | 约 04:00 站姿哑铃过头推。约 08:00 字幕点名「坐姿推肩」。约 12:00 俯身持曲杆，字幕谈三角肌。约 21:20 前后分腿蹲类（该帧未写出动作名）。 |
+| 10 | 26:12 | B 站「三分化之拉日」`BV1hnrWBHEu7`（2026-01-14）；小红书「三分化之拉日来啦」`6967468b` | 约 09:00 站姿拉绳索，字幕「斜前方坐一坐」。约 14:00 坐姿拉，字幕「斜下方收肘」。约 19:00 坐姿划船类，叠字「向远端发力」。约 23:20 坐凳持杠弯举类，字幕「选择一个比较重量的啊」（不是负荷处方）。 |
 
 - **热身**：胸 / 背 / 下肢整套流程见抖音「一次性看完三分化热身整套流程」，只作结构索引，未抄动作细节。
 - **本条没有**：组数、组间歇分钟数、每周几次、动作表。需要跟练时打开对应长视频；名词定义打开合作③回看。
@@ -48,6 +48,8 @@ updated_at: "2026-08-14"
 | 本人第二期背+二头 | https://www.bilibili.com/video/BV1ofdnBZEi3/ | high | `../../inbox/assets/20260812-bilibili-BV1ofdnBZEi3-split3-back.png` |
 | 本人腿部 | https://www.bilibili.com/video/BV1Fzd2BBEdM/ | high | `../../inbox/assets/20260812-bilibili-BV1Fzd2BBEdM-split3-leg.png` |
 | 小红书新手三分化跟练 | https://www.xiaohongshu.com/explore/6963996a000000002102a3c6 | high | `../../inbox/assets/20260812-xhs-note-split3-beginner.png` |
+| 小红书三分化最后一期（01-16） | https://www.xiaohongshu.com/explore/69699d570000000022021173 | high | `../../inbox/assets/20260813-xhs-note-split3-finale-0116.png` |
+| 小红书三分化之拉日 | https://www.xiaohongshu.com/explore/6967468b000000002103fd38 | high | `../../inbox/assets/20260812-xhs-split3-pull.png` |
 | 抖音三分化热身 | https://www.douyin.com/video/7638569547629063665 | high | `../../inbox/assets/20260812-douyin-split-warmup.png` |
 | 焚决合集第 8 集较短跟练 | https://www.bilibili.com/video/BV1E76ZBtEZ5/ | high | `../../inbox/assets/20260814-split3s-ep8-t540.png` |
 | 第 8 集 坐姿推胸 | https://www.bilibili.com/video/BV1E76ZBtEZ5/ | high | `../../inbox/assets/20260814-split3s-ep8-t360.png` |
@@ -79,4 +81,6 @@ updated_at: "2026-08-14"
 - `inbox/raw/20260812-bilibili-split3-pull-personal.md`
 - `inbox/raw/20260812-xhs-split3-ep1.md`
 - `inbox/raw/20260812-xhs-split3-beginner.md`
+- `inbox/raw/20260813-xhs-split3-finale-0116.md`
+- `inbox/raw/20260812-xhs-split3-pull.md`
 - `inbox/raw/20260812-douyin-split-warmup.md`
