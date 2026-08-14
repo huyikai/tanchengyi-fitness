@@ -25,5 +25,5 @@ screenshots:
 
 ## Agent 备注
 
-- 未摘录口播全文。
-- 已合成：`content/technique/fenjue.md`（抖音合集第 5 集）
+- 未摘录口播全文。评论区动作名不作正文。
+- 已合成画面线索：`content/technique/fenjue.md`（抖音合集第 5 集）

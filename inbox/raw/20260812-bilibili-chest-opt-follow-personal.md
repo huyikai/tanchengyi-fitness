@@ -26,4 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录口播组数/负荷数字。
-- 已合成：`content/technique/fenjue.md`（抖音合集第 11 集）
+- 已合成画面线索：`content/technique/fenjue.md`（抖音合集第 11 集；不要和第 1 集并表）
