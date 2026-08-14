@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1q4UwBpE2i/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2"]
 screenshots:
   - "../assets/20260812-bilibili-BV1q4UwBpE2i.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录补剂品牌/口播清单。
+- 已合成：`content/technique/fenjue.md`（与抖音焚决第 1 集胸对照）

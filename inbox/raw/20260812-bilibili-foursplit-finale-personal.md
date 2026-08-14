@@ -25,5 +25,5 @@ screenshots:
 
 ## Agent 备注
 
-- 未摘录口播全文。
+- 字幕/画面可见反飞鸟机位、实力推、前平举、颈后绳索臂屈伸。组数未从画面抄出。
 - 已合成：`content/plans/four-split.md`

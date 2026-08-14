@@ -30,4 +30,4 @@ screenshots:
 
 - 未整段摘录章节口播；仅记结构与动作名单。可与抖音私教背、小红书高位下拉/划船对照。
 - 主页 modal：`...?modal_id=7582048702325181745`；canonical 用 `/video/`。
-- 已合成：`content/technique/fenjue-back.md`
+- 已合成：`content/technique/fenjue-back.md`（系列索引 `content/technique/fenjue.md`）

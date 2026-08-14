@@ -26,4 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录具体动作清单口播。
-- 已合成：`content/plans/split3.md`
+- 已合成画面线索：`content/plans/split3.md`（抖音焚决合集第 9 集）

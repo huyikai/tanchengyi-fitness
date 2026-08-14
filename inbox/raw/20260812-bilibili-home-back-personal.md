@@ -26,4 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录口播全文。
-- 已合成：`content/plans/home-plan.md`
+- 已合成画面线索：`content/plans/home-plan.md`（抖音焚决合集第 16 集）

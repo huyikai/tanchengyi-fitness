@@ -26,4 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录进阶负荷表。
-- 已合成：`content/technique/fenjue-back.md`
+- 已合成：`content/technique/fenjue.md`

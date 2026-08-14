@@ -6,7 +6,7 @@ url: "https://www.bilibili.com/video/BV1hnrWBHEu7/"
 account: "谭成义"
 official_likelihood: "high"
 captured_at: "2026-08-12"
-status: "captured"
+status: "curated"
 taxonomy_hints: ["T2", "T1"]
 screenshots:
   - "../assets/20260812-bilibili-BV1hnrWBHEu7-pull.png"
@@ -26,3 +26,4 @@ screenshots:
 ## Agent 备注
 
 - 未摘录动作清单全文。
+- 已合成画面线索：`content/plans/split3.md`（抖音焚决合集第 10 集）

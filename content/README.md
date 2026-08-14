@@ -2,12 +2,12 @@
 
 本目录是 raw 原料之上的整理稿，便于查阅与跟练导航。仍**不是**口播全文或可直接照抄的组数表。
 
-当前阶段：计划（含四分化①–④/居家/组数入口）、饮食、技术（含私教与恢复）结构草稿已有；组数/餐单数字仍须回看原片。
+当前阶段：计划（含四分化①–④/居家/组数入口）、饮食、技术（含私教、焚决系列与恢复）结构草稿已有；组数/餐单数字仍须回看原片。
 
 | 类目 | 路径 | 状态 |
 |------|------|------|
 | 训练计划 | [plans/](./plans/) | 三分化、四分化、居家、通用计划、组数/RM（draft） |
-| 动作技术 | [technique/](./technique/) | 私教、焚决背、器械、RDL、透视学、恢复（draft） |
+| 动作技术 | [technique/](./technique/) | 私教、焚决系列、器械、RDL、透视学、恢复（draft） |
 | 饮食与补剂 | [nutrition/](./nutrition/) | 减脂计划、宏量、一日记录（draft） |
 
 ## 本人 / 官方向账号
@@ -26,7 +26,7 @@
 
 | 合集 | 约集数 | 对应整理方向 |
 |------|--------|----------------|
-| 焚决之跟练系列（亦作「焚诀」） | 18 | [背部五动作](./technique/fenjue-back.md)；胸/其余分集见该条 |
+| 焚决之跟练系列（亦作「焚诀」） | 18 | [系列索引](./technique/fenjue.md)（18 集目录已列；画面已回看部位课与第 8–10、16–17 集；其余见对照条目） |
 | 私教跟练系列 | 7 | [私教跟练](./technique/private-coach.md) |
 | 健身房器械和动作详解 | 6 | [器械合集](./technique/gym-machines.md) |
 | 训练，营养，体态和恢复教学 | 30 | [热身/拉伸/恢复](./technique/recovery.md) |
@@ -40,7 +40,7 @@
 | 三分化 | 蹲推拉 / 胸肩三头、背二头、腿 | [split3.md](./plans/split3.md) |
 | 四分化 | 新手通用跟练 | [four-split.md](./plans/four-split.md) |
 | 居家 | 哑铃向：胸三头 / 背二头 / 下肢 / 安排 | [home-plan.md](./plans/home-plan.md) |
-| 焚决跟练 | 按部位长视频跟练 | [technique/fenjue-back.md](./technique/fenjue-back.md) |
+| 焚决跟练 | 按部位长视频跟练 | [technique/fenjue.md](./technique/fenjue.md) |
 | 私教跟练 | 保姆级分部位长课 | [technique/private-coach.md](./technique/private-coach.md) |
 
 细节与链接以各正式条目和 `inbox/raw/` 为准。截图在条目内，不单开「出处」类目。

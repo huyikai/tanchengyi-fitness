@@ -29,4 +29,4 @@ screenshots:
 ## Agent 备注
 
 - 未整段摘录「章节要点」口播；仅记结构与动作名单供后续 curated。
-- 已合成：`content/technique/fenjue-back.md`
+- 已合成：`content/technique/fenjue.md`（B 站 `BV1q4UwBpE2i` 同时长对照）

@@ -31,4 +31,4 @@ screenshots:
 ## Agent 备注
 
 - 拼写：合集标题「焚决」与单集标题「焚诀」并存，引用时保留原文。
-- 已合成：`content/README.md`
+- 已合成：`content/README.md`、`content/technique/fenjue.md`（18 集侧栏目录）

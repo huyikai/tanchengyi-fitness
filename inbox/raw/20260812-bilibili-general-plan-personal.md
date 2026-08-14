@@ -27,4 +27,4 @@ screenshots:
 
 - 未摘录口播全文。
 - 已合成：`content/plans/general-plan.md`
-- 已合成：`content/plans/four-split.md`（B 站封面为大字「四分化跟练系列（一）」）
+- 已合成：`content/plans/four-split.md`（B 站封面为大字「四分化跟练系列（一）」；字幕可见夹胸/下胸、杠铃卧推主项、上斜器械、实力推、颈后绳索臂屈伸）
