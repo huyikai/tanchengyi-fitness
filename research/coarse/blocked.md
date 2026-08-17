@@ -1,5 +1,5 @@
 ---
-updated_at: "2026-08-13"
+updated_at: "2026-08-14"
 ---
 
 # 粗扫未取得项
@@ -19,6 +19,7 @@ updated_at: "2026-08-13"
 | 2026-08-13 | 小红书 2025-02/03 更早网格 | captured | 见到的 10 条 `67…` ID 已全部入库（DMS 上海站倒计时 D-3 至 D-30 + 自然职业卡意向）。中间 `68…` 页因虚拟列表未加载，需再慢滚补 2025 年中后段。 |
 | 2026-08-13 | 小红书中间网格 `695c…`–`68ef…` | captured | **此前同屏 16 个已见 ID 已全部入库**。 |
 | 2026-08-13 | 小红书主页更早网格分页（`68ee` 及 11 月缺口） | other | **外部阻断（12:35 复试仍失败）**：上午停在 `69e32c6e` 后已冷却约 2.5 小时。本轮从笔记点入带完整 `xsec_token` 重进主页，慢滚后仍停在「三分化背部，二头（上）」，`feeds-loading` 不消失，分页不返回更早笔记。已打开的 Oct-15「背部训练教学（中）」详情页也无作者更多笔记入口。未继续打分页。待更长冷却或人工在浏览器慢滚主页后再扫下列缺口。 |
+| 2026-08-14 | 小红书更早页 `68ee…` 队列（回主页重取 token） | other | **外部阻断（约 16:40 再试仍失败）**：从已入库笔记点入主页（完整 `xsec_token` / `xsec_source=pc_user`），首屏约 30 条后慢滚到 cursor `69e32c6e`（「三分化背部，二头（上）」）。页面 `hasMore=true`，但下一页 `userNoteFetchingStatus=rejected`，网格停在同一 cursor，`feeds-loading` 仍在 DOM。未再硬滚、未无 token 直开过期 ID。截图 `inbox/assets/20260814-xhs-profile-pagination-block.png`。待人工在本机浏览器慢滚主页，或更长冷却后再扫下列缺口。 |
 | 2026-08-12 | B 站本人空间恢复 + 近作技术片 | captured | 空间 raw + 本人 RDL/`BV1hauq6EEfW`、划船反飞鸟/`BV1E8un61EVg`、卧推推肩/`BV1T6GG6mEo9`。 |
 | 2026-08-12 | B 站本人睡眠/高位下拉/一体机 | captured | `BV1w53J6REfW`、`BV14QKF6FEkP`、`BV1PcNQ6AE3f`。 |
 | 2026-08-12 | B 站本人硬减日/手臂安排/私教腿 | captured | `BV1ysNn65EJ8`、`BV1wvMF6ZEqL`、`BV1RjTT6FEKo`。 |
